@@ -1,0 +1,15 @@
+what are similar tools like iotop, htop, nvtop'
+Here are some tools similar to iotop, htop, and nvtop:                                                           
+
+ 1 iotop:                                                                                                        
+    • nmon: Provides a comprehensive view of system performance, including disk I/O.                             
+    • dstat: Combines the functionality of iostat, vmstat, netstat, and ifstat.                                  
+    • atop: Monitors system resources, including disk I/O.                                                       
+ 2 htop:                                                                                                         
+    • top: The standard process viewer for Unix systems.                                                         
+    • glances: Offers a more detailed view of system performance.                                                
+    • vtop: A graphical activity monitor for the command line.                                                   
+ 3 nvtop:                                                                                                        
+    • nvidia-smi: Command-line utility for monitoring NVIDIA GPU usage.                                          
+    • gpustat: A simple command-line utility to monitor GPU status.                                              
+    • gputop: A top-like interface for monitoring GPU usage.        
