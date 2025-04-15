@@ -1,0 +1,12 @@
+gh repo create --public !!
+
+git init
+git config --global init.defaultBranch master
+git add
+git commit -m
+
+git remote add origin https://github.com/vijayanandmit/!!.git
+git push --set-upstream origin master
+
+
+gh repo view --web
