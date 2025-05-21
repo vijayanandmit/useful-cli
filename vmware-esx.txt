@@ -1,0 +1,22 @@
+	•	Get VM summary and filter for guest info
+vim-cmd vmsvc/get.summary <vmid> | grep -iA11 guestsummary
+
+	•	Get VM summary and filter for quickstats
+vim-cmd vmsvc/get.summary <vmid> | grep -i quickstats
+
+	•	(Attempt to) set number of vCPUs via vim-cmd
+vim-cmd vmsvc/setconfig <vmid> numvcpus 8
+
+
+#power down
+vim-cmd vmsvc/getallvms                 # note the VMID of “SourceVM”
+vim-cmd vmsvc/power.shutdown <SourceVM_ID>
+
+
+Create target directory for clone
+mkdir /vmfs/volumes/datastore1/CloneVM
+
+vmkfstools -i /vmfs/volumes/datastore1/SourceVM/SourceVM.vmdk \
+           /vmfs/volumes/datastore1/CloneVM/CloneVM.vmdk \
+           -d thin
+
