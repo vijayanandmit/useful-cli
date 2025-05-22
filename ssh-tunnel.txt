@@ -1,0 +1,80 @@
+Access a web interface (port 9090 on 192.168.216.98) from your local system, but that machine is only reachable from a jump host (172.23.x.255). Here’s how to do it:
+
+✅ Solution: SSH Local Port Forwarding (via Jump Host)
+
+You can forward the remote port 192.168.216.98:9090 to your local system using:
+
+ssh -L 9090:192.168.216.98:9090 guest@172.23.1.255
+
+🧠 What this does:
+	•	You SSH into 172.23.1.255.
+	•	While connected, it forwards your local machine’s port 9090 to 192.168.216.98:9090 from the perspective of 172.23.1.255.
+	•	You can now open http://localhost:9090 on your browser and it’ll proxy to 192.168.216.98:9090.
+
+
+⚠️ Make sure:
+	•	Port 9090 is open and listening on 192.168.216.98.
+	•	172.23.1.255 can reach 192.168.216.98:9090 (as you’ve verified).
+	•	If you’re using a firewall or Cockpit, ensure access is allowed.
+
+
+
+Persistent SSH Tunnel Setup
+
+Objective
+
+Access https://192.168.216.98:9090 from your local browser via an SSH tunnel through a jump host (172.23.7.110).
+
+Step 1: Edit SSH Config
+
+Open your terminal and edit the SSH config file:
+
+nano ~/.ssh/config
+
+Add the following block:
+
+Host webpanel
+  HostName 172.23.7.110
+  User ge-admin
+  LocalForward 9090 192.168.216.98:9090
+
+Step 2: Connect Using Shortcut
+
+To establish the tunnel, run:
+
+ssh webpanel
+
+Step 3: Access the Web UI
+
+After connecting, open the following in your browser:
+
+https://localhost:9090
+
+If the remote server enforces HTTPS, you will see the proper interface through the forwarded port.
+
+Optional: Use a Different Local Port
+
+To avoid conflicts or for clarity, you may use a different port like 9900:
+
+  LocalForward 9900 192.168.216.98:9090
+
+Then open:
+
+https://localhost:9900
+
+Optional: Auto-Restart with autossh
+
+For persistent tunnels:
+
+sudo apt install autossh
+autossh -M 0 -f -N -T -L 9090:192.168.216.98:9090 ge-admin@172.23.7.110
+
+Notes
+
+Ensure the service is running on the destination IP.
+
+Make sure port 9090 is reachable from the jump host.
+
+Always use https:// if the service enforces TLS.
+
+
