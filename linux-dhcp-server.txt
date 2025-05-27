@@ -1,0 +1,43 @@
+# Internet Sharing from Wi-Fi to Ethernet Device (Static IP)
+
+This guide explains how to share internet from a Wi-Fi interface (`wlp226s0`) to an Ethernet-connected device (`192.168.216.98`) using `eno1np0` on a Linux system with NetworkManager.
+
+---
+
+## ✅ Overview
+
+- **Host Interface (Wi-Fi)**: `wlp226s0` — connected to the internet  
+- **Ethernet Interface**: `eno1np0` — directly connected to the target device  
+- **Target Device IP**: `192.168.216.98` — static or DHCP assigned
+
+---
+
+## 🛠️ Host Machine Configuration
+
+### 1. Set up shared connection:
+```bash
+nmcli connection modify eno1np0 ipv4.method shared
+nmcli connection modify eno1np0 ipv4.addresses 192.168.216.1/24
+nmcli connection modify eno1np0 ipv4.dns 8.8.8.8
+nmcli connection up eno1np0
+```
+
+### 2. Enable IP forwarding and NAT:
+
+Edit /etc/sysctl.conf:
+```bash
+net.ipv4.ip_forward = 1
+```
+
+Apply it:
+```bash
+sudo sysctl -p
+```
+Set up NAT:
+```bash
+sudo iptables -t nat -A POSTROUTING -o wlp226s0 -j MASQUERADE
+```
+(Optional) Make it persistent:
+```bash
+sudo iptables-save > /etc/iptables/rules.v4
+```
