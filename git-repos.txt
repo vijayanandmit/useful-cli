@@ -3,3 +3,7 @@ https://github.com/microsoft/vscode
 
 Instantly turn any GitHub repo into interactive diagrams, just by changing the URL.
 Replace “github” with “gitdiagram” in any GitHub URL and you’ll see an interactive diagram of the codebase
+
+
+coder
+https://github.com/j4wg/interview-coder-withoupaywall-opensource
