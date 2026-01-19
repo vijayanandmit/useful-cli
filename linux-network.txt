@@ -1,0 +1,8 @@
+ip a #list ip
+ip link set <wlx> up #set link up for interface wlx
+nmcli
+iw   #configure wireless networks
+iw dev
+iw phy
+iw list
+
