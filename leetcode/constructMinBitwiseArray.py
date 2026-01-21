@@ -16,17 +16,17 @@
 #For i = 2, the smallest ans[2] that satisfies ans[2] OR (ans[2] + 1) = 5 is 4, because 4 OR (4 + 1) = 5.
 #For i = 3, the smallest ans[3] that satisfies ans[3] OR (ans[3] + 1) = 7 is 3, because 3 OR (3 + 1) = 7.
 
+from typing import List
+
  
 class Solution:
     def minBitwiseArray(self, nums: List[int]) -> List[int]:
-        ans = []
+        ans: List[int] = []
         for n in nums:
-            found = False
-            for i in range(n):
-                if i | (i+1) == n:
-                    ans.append(i)
-                    found = True
-                    break
-            if not found:
+            if (n & 1) == 0:
                 ans.append(-1)
+                continue
+
+            trailing_ones = (n ^ (n + 1)).bit_length() - 1
+            ans.append(n - (1 << (trailing_ones - 1)))
         return ans
