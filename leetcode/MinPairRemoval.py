@@ -1,10 +1,24 @@
 """
-Given an array nums, you can perform the following operation any number of times:
+Minimum Pair Removal (LeetCode-style).
 
-Select the adjacent pair with the minimum sum in nums. If multiple such pairs exist,
-choose the leftmost one. Replace the pair with their sum.
+Operation (repeat any number of times):
+- Pick the adjacent pair with the minimum sum (leftmost on ties),
+- Replace the pair with their sum.
 
-Return the minimum number of operations needed to make the array non-decreasing.
+Goal: return the minimum number of operations needed to make the array non-decreasing.
+
+Approach
+--------
+We simulate the process efficiently:
+- Maintain a doubly-linked list of "alive" nodes (the current array).
+- Maintain a min-heap of adjacent pairs keyed by (pair_sum, left_index) to enforce
+  the "minimum sum, then leftmost" selection rule.
+- Use lazy deletion for heap entries via `(alive, next-pointer, version)` checks.
+- Track the number of descents (i.e. adjacent inversions) so we can stop as soon as
+  the list becomes non-decreasing.
+
+Time: O(n log n) heap operations with lazy invalidation.
+Space: O(n) for nodes + heap.
 """
 
 from __future__ import annotations
@@ -25,6 +39,14 @@ class _Node:
 
 class Solution:
     def minimumPairRemoval(self, nums: List[int]) -> int:
+        """
+        Return the number of merges required to reach a non-decreasing array.
+
+        Implementation notes:
+        - Each original element is a node in an implicit doubly-linked list.
+        - Each heap item stores: (pair_sum, left_id, right_id, left_version, right_version).
+        - When a merge happens, only pairs touching the merged node can change.
+        """
         n = len(nums)
         if n <= 1:
             return 0
@@ -39,7 +61,7 @@ class Solution:
             if is_descent(i, i + 1):
                 descents += 1
 
-        heap: List[Tuple[int, int, int, int, int, int]] = []
+        heap: List[Tuple[int, int, int, int, int]] = []
 
         def push_pair(left_id: int, right_id: int) -> None:
             left = nodes[left_id]
@@ -48,7 +70,6 @@ class Solution:
                 heap,
                 (
                     left.value + right.value,
-                    left_id,  # leftmost tiebreak
                     left_id,
                     right_id,
                     left.version,
@@ -62,7 +83,7 @@ class Solution:
         ops = 0
         while descents > 0:
             while True:
-                pair_sum, left_pos, left_id, right_id, left_ver, right_ver = heappop(heap)
+                pair_sum, left_id, right_id, left_ver, right_ver = heappop(heap)
                 left = nodes[left_id]
                 right = nodes[right_id]
                 if (
@@ -110,6 +131,7 @@ class Solution:
 
 
 def _naive_minimum_pair_removal(nums: List[int]) -> int:
+    """Slow reference implementation used for quick local validation (O(n^2) or worse)."""
     nums = nums[:]
     ops = 0
 
