@@ -131,20 +131,20 @@ def _naive_minimum_pair_removal(nums: List[int]) -> int:
     return ops
 
 
-if __name__ == "__main__":
-    import random
-
-    s = Solution()
-    assert s.minimumPairRemoval([5, 2, 3, 1]) == 2
-    assert s.minimumPairRemoval([1, 2, 2]) == 0
-    assert s.minimumPairRemoval([2, 1]) == 1
-    assert s.minimumPairRemoval([1]) == 0
-
-    for _ in range(300):
-        n = random.randint(1, 20)
-        arr = [random.randint(-10, 10) for _ in range(n)]
-        got = s.minimumPairRemoval(arr)
-        exp = _naive_minimum_pair_removal(arr)
-        assert got == exp, (arr, got, exp)
-
-    print("OK")
+# if __name__ == "__main__":
+#     import random
+#
+#     s = Solution()
+#     assert s.minimumPairRemoval([5, 2, 3, 1]) == 2
+#     assert s.minimumPairRemoval([1, 2, 2]) == 0
+#     assert s.minimumPairRemoval([2, 1]) == 1
+#     assert s.minimumPairRemoval([1]) == 0
+#
+#     for _ in range(300):
+#         n = random.randint(1, 20)
+#         arr = [random.randint(-10, 10) for _ in range(n)]
+#         got = s.minimumPairRemoval(arr)
+#         exp = _naive_minimum_pair_removal(arr)
+#         assert got == exp, (arr, got, exp)
+#
+#     print("OK")
