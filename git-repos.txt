@@ -7,3 +7,6 @@ Replace “github” with “gitdiagram” in any GitHub URL and you’ll see an
 
 coder
 https://github.com/j4wg/interview-coder-withoupaywall-opensource
+
+8 specialized AI agents orchestrating themselves
+gh repo clone cubetribe/ClaudeCode_GodMode-On
