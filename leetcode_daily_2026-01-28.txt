@@ -1,0 +1,10 @@
+LeetCode Daily Problem
+Date (UTC): 2026-01-28
+Title: Minimum Cost Path with Teleportations
+
+Links:
+- Problem:
+- Daily question page (env): https://leetcode.com/problems/minimum-cost-path-with-teleportations/solutions/?envId=2026-01-28&envType=daily-question
+
+Notes:
+- LeetCode daily challenges roll over on UTC time.
