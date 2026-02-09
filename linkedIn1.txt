@@ -1,76 +1,79 @@
-🚀 Stop Paying for AI Coding? Run Claude Code on Your Own GPU.
+## 🚀 Stop Paying for AI Coding? Run Claude Code on Your Own GPU.
 
-What if your AI coding assistant didn’t need API billing, subscriptions, or cloud tokens?
+What if your AI coding assistant **didn’t need API billing, subscriptions, or cloud tokens**?
 
-Yes — today Claude Code can run entirely on local models hosted on your own GPU.
+Yes — today **Claude Code can run entirely on local models hosted on your own GPU.**
 
-No cloud.
-No usage limits.
-No surprise invoices.
+No cloud.  
+No usage limits.  
+No surprise invoices.  
 
 Just raw compute + your own models.
 
-⸻
+---
 
-⚡ What changed?
+### ⚡ What changed?
 
-Recent ecosystem updates made Claude Code compatible with locally hosted LLM backends (via tools like Ollama, LM Studio, LiteLLM, etc.), allowing developers to redirect inference from cloud APIs to local GPU models.  ￼
+Recent ecosystem updates made Claude Code compatible with **locally hosted LLM backends** (via tools like Ollama, LM Studio, LiteLLM, etc.), allowing developers to redirect inference from cloud APIs to **local GPU models**.
 
 This means:
-	•	🧠 Run coding models locally (Qwen-Coder, DeepSeek-Coder, etc.)
-	•	🔒 Full privacy — your code never leaves your machine
-	•	💸 Zero API cost (only electricity + hardware)
-	•	✈️ Works offline
-	•	⚙️ Full control over your AI stack
-￼
 
-⸻
+- 🧠 Run coding models locally (Qwen-Coder, DeepSeek-Coder, etc.)
+- 🔒 Full privacy — your code never leaves your machine
+- 💸 **Zero API cost** (only electricity + hardware)
+- ✈️ Works offline
+- ⚙️ Full control over your AI stack  
 
-🧩 How it works (simple idea)
+---
 
-Claude Code normally talks to Anthropic’s cloud API.
-Now you can redirect that API to your local model server using:
-	•	Ollama (Anthropic-compatible endpoint)
-	•	LM Studio local inference server
-	•	LiteLLM / proxy bridge
-	•	Local GPU / workstation / homelab
+### 🧩 How it works (simple idea)
 
-Claude Code still behaves like an agentic coding assistant — reading files, editing code, running terminal commands — but the brain is now your local model.  ￼
+Claude Code normally talks to Anthropic’s cloud API.  
+Now you can **redirect that API to your local model server** using:
 
-⸻
+- Ollama (Anthropic-compatible endpoint)
+- LM Studio local inference server
+- LiteLLM / proxy bridge
+- Local GPU / workstation / homelab
 
-🔥 Why this is a big deal
+Claude Code still behaves like an **agentic coding assistant** — reading files, editing code, running terminal commands — but the brain is now **your local model**.
+
+---
+
+### 🔥 Why this is a big deal
 
 We are moving from:
 
-Pay-per-token AI → Own-your-compute AI
+> Pay-per-token AI → **Own-your-compute AI**
 
 Implications:
-	•	Enterprises avoid recurring AI billing
-	•	Developers get unlimited coding sessions
-	•	Sensitive code stays local (security + compliance)
-	•	Homelab + GPU becomes a real AI workstation
-	•	Hybrid local + cloud AI workflows emerge
+
+- Enterprises avoid recurring AI billing
+- Developers get unlimited coding sessions
+- Sensitive code stays local (security + compliance)
+- Homelab + GPU becomes a real AI workstation
+- Hybrid local + cloud AI workflows emerge
 
 This is similar to how virtualization shifted from rented servers → private infrastructure.
 
 Now AI is doing the same.
 
-⸻
+---
 
-🧠 My take
+### 🧠 My take
 
-The future of AI development will be hybrid:
-	•	Local models → privacy, cost, control
-	•	Cloud frontier models → reasoning, scale
-	•	Intelligent routing → best of both worlds
+The future of AI development will be **hybrid**:
 
-And tools like Claude Code are becoming the universal AI interface to whichever model you choose.
+- Local models → privacy, cost, control
+- Cloud frontier models → reasoning, scale
+- Intelligent routing → best of both worlds
 
-⸻
+And tools like Claude Code are becoming the **universal AI interface** to whichever model you choose.
+
+---
 
 If you are already running local models on GPU, curious:
 
-Would you still pay for API tokens? Or move fully local?
+**Would you still pay for API tokens? Or move fully local?**
 
 #AI #ClaudeCode #LocalLLM #GPU #DeveloperTools #AgenticAI #MLOps #OpenSource #AIInfrastructure #FutureOfAI
