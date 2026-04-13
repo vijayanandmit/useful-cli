@@ -3,3 +3,10 @@ yt-dlp --write-auto-subs --skip-download --sub-format best --sub-langs en <yt-li
 apt install yt-dlp
 pip install -U yt-dlp
 make sure verison is 2025.6.25 using yt-dlp -U
+
+------
+
+After downloading the subtitle file, add the file to cloud storage with rclone cli
+
+rclone copyto claude_trader.md ibkrdrive:claude_trader.md --drive-root-folder-id 1sFgQQukoK5Td4rWde7BNE9odCknJzME0 --config /tmp/rclone.conf -v
+
