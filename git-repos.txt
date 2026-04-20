@@ -18,3 +18,13 @@ npx skills add https://github.com/vercel-labs/skills --skill find-skills
 bucket list to try
 
 https://github.com/Aider-AI/aider
+
+
+Use pnpm instead of npm, to avoid installing npm packages in every project
+  - Ran corepack enable
+  - Refreshed global pnpm with npm install -g pnpm
+  - Added alias npm='pnpm' to ~/.bash_aliases
+  - Verified in a fresh interactive bash shell that npm resolves to pnpm
+
+  Verification result: both npm --version through the alias and pnpm --version return 10.33.0. New
+  bash shells will pick up the alias automatically
