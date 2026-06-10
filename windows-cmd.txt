@@ -1,0 +1,5 @@
+#Assign dhcp ip for "Ethernet 2" interface
+netsh interface ipv4 set address name="Ethernet 2" source=dhcp
+
+#Assign static ip
+netsh interface ipv4 set address name="Ethernet 2" static 192.168.4.208 255.255.255.0 192.168.4.1
