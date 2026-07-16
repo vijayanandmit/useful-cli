@@ -25,4 +25,24 @@
 
 
   This avoids logging into the Windows jumpbox, though network traffic still  passes through it.
+----------------------------------------------------
+  For better security, restrict the firewall rule to your source IP:        
 
+  New-NetFirewallRule `
+    -DisplayName "SSH forwarding to 192.168.5.10" `
+    -Direction Inbound -Protocol TCP -LocalPort 2222 `
+    -RemoteAddress YOUR_CLIENT_IP -Action Allow
+
+
+  If portproxy does not listen, ensure the Windows IP Helper service is       running:
+
+
+  Set-Service iphlpsvc -StartupType Automatic
+  Start-Service iphlpsvc
+
+
+  To remove the forwarding later:
+
+
+  netsh interface portproxy delete v4tov4 listenaddress=10.134.170.49       listenport=2222
+  Remove-NetFirewallRule -DisplayName "SSH forwarding to 192.168.5.10"  
