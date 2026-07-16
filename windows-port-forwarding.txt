@@ -1,0 +1,28 @@
+• On 10.134.170.49 (jump-host), open PowerShell as Administrator and run:
+
+
+  netsh interface portproxy add v4tov4 `
+    listenaddress=10.134.170.49 listenport=2222 `
+    connectaddress=192.168.5.10 connectport=22
+
+
+  New-NetFirewallRule `
+    -DisplayName "SSH forwarding to 192.168.5.10" `
+    -Direction Inbound -Protocol TCP -LocalPort 2222 -Action Allow
+
+
+  Verify the forwarding rule:
+
+
+  netsh interface portproxy show all
+  Test-NetConnection 192.168.5.10 -Port 22
+
+
+  Then connect from your original computer:
+
+
+  ssh -p 2222 guest@10.134.170.49
+
+
+  This avoids logging into the Windows jumpbox, though network traffic still  passes through it.
+
