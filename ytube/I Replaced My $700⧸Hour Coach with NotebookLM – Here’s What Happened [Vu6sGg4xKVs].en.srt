@@ -1,0 +1,6005 @@
+1
+00:00:05,600 --> 00:00:07,829
+
+Are we ready?
+
+2
+00:00:07,829 --> 00:00:07,839
+Are we ready?
+ 
+
+3
+00:00:07,839 --> 00:00:11,910
+Are we ready?
+Okay, let's do this. And action. Let's
+
+4
+00:00:11,910 --> 00:00:11,920
+Okay, let's do this. And action. Let's
+ 
+
+5
+00:00:11,920 --> 00:00:14,789
+Okay, let's do this. And action. Let's
+head over to Notebook LM. This is kind
+
+6
+00:00:14,789 --> 00:00:14,799
+head over to Notebook LM. This is kind
+ 
+
+7
+00:00:14,799 --> 00:00:18,390
+head over to Notebook LM. This is kind
+of like a sweeping request for tell me
+
+8
+00:00:18,390 --> 00:00:18,400
+of like a sweeping request for tell me
+ 
+
+9
+00:00:18,400 --> 00:00:20,710
+of like a sweeping request for tell me
+what to do. Give me your best advice
+
+10
+00:00:20,710 --> 00:00:20,720
+what to do. Give me your best advice
+ 
+
+11
+00:00:20,720 --> 00:00:30,669
+what to do. Give me your best advice
+based on everything I've given you.
+
+12
+00:00:30,669 --> 00:00:30,679
+
+ 
+
+13
+00:00:30,679 --> 00:00:32,750
+
+Wow.
+
+14
+00:00:32,750 --> 00:00:32,760
+Wow.
+ 
+
+15
+00:00:32,760 --> 00:00:35,990
+Wow.
+So I often express an intention for work
+
+16
+00:00:35,990 --> 00:00:36,000
+So I often express an intention for work
+ 
+
+17
+00:00:36,000 --> 00:00:39,670
+So I often express an intention for work
+life balance but then what I actually do
+
+18
+00:00:39,670 --> 00:00:39,680
+life balance but then what I actually do
+ 
+
+19
+00:00:39,680 --> 00:00:44,270
+life balance but then what I actually do
+I I feel that at a deep
+
+20
+00:00:44,270 --> 00:00:44,280
+I I feel that at a deep
+ 
+
+21
+00:00:44,280 --> 00:00:47,270
+I I feel that at a deep
+level coaching can be life-changing but
+
+22
+00:00:47,270 --> 00:00:47,280
+level coaching can be life-changing but
+ 
+
+23
+00:00:47,280 --> 00:00:49,910
+level coaching can be life-changing but
+it's also expensive. I found that one of
+
+24
+00:00:49,910 --> 00:00:49,920
+it's also expensive. I found that one of
+ 
+
+25
+00:00:49,920 --> 00:00:51,750
+it's also expensive. I found that one of
+the most important things in good
+
+26
+00:00:51,750 --> 00:00:51,760
+the most important things in good
+ 
+
+27
+00:00:51,760 --> 00:00:54,790
+the most important things in good
+coaching is context. It's important that
+
+28
+00:00:54,790 --> 00:00:54,800
+coaching is context. It's important that
+ 
+
+29
+00:00:54,800 --> 00:00:57,430
+coaching is context. It's important that
+the coach knows about you, your goals,
+
+30
+00:00:57,430 --> 00:00:57,440
+the coach knows about you, your goals,
+ 
+
+31
+00:00:57,440 --> 00:00:59,430
+the coach knows about you, your goals,
+your opportunities, both your strengths
+
+32
+00:00:59,430 --> 00:00:59,440
+your opportunities, both your strengths
+ 
+
+33
+00:00:59,440 --> 00:01:01,110
+your opportunities, both your strengths
+and your weaknesses, how your mind
+
+34
+00:01:01,110 --> 00:01:01,120
+and your weaknesses, how your mind
+ 
+
+35
+00:01:01,120 --> 00:01:04,149
+and your weaknesses, how your mind
+works. Well, we live in a time when AI
+
+36
+00:01:04,149 --> 00:01:04,159
+works. Well, we live in a time when AI
+ 
+
+37
+00:01:04,159 --> 00:01:06,950
+works. Well, we live in a time when AI
+has an essentially unlimited context
+
+38
+00:01:06,950 --> 00:01:06,960
+has an essentially unlimited context
+ 
+
+39
+00:01:06,960 --> 00:01:09,109
+has an essentially unlimited context
+window. So, in this video, I'm going to
+
+40
+00:01:09,109 --> 00:01:09,119
+window. So, in this video, I'm going to
+ 
+
+41
+00:01:09,119 --> 00:01:13,350
+window. So, in this video, I'm going to
+sit down with Notebook LM and load up 40
+
+42
+00:01:13,350 --> 00:01:13,360
+sit down with Notebook LM and load up 40
+ 
+
+43
+00:01:13,360 --> 00:01:16,710
+sit down with Notebook LM and load up 40
+separate documents containing almost
+
+44
+00:01:16,710 --> 00:01:16,720
+separate documents containing almost
+ 
+
+45
+00:01:16,720 --> 00:01:19,990
+separate documents containing almost
+150,000 words, which is everything that
+
+46
+00:01:19,990 --> 00:01:20,000
+150,000 words, which is everything that
+ 
+
+47
+00:01:20,000 --> 00:01:22,070
+150,000 words, which is everything that
+I have and everything that I know about
+
+48
+00:01:22,070 --> 00:01:22,080
+I have and everything that I know about
+ 
+
+49
+00:01:22,080 --> 00:01:24,710
+I have and everything that I know about
+how I work inside. And we're going to
+
+50
+00:01:24,710 --> 00:01:24,720
+how I work inside. And we're going to
+ 
+
+51
+00:01:24,720 --> 00:01:27,830
+how I work inside. And we're going to
+find out whether AI can become a coach
+
+52
+00:01:27,830 --> 00:01:27,840
+find out whether AI can become a coach
+ 
+
+53
+00:01:27,840 --> 00:01:30,149
+find out whether AI can become a coach
+for you in your life or in your work and
+
+54
+00:01:30,149 --> 00:01:30,159
+for you in your life or in your work and
+ 
+
+55
+00:01:30,159 --> 00:01:32,390
+for you in your life or in your work and
+exactly how to go about doing that step
+
+56
+00:01:32,390 --> 00:01:32,400
+exactly how to go about doing that step
+ 
+
+57
+00:01:32,400 --> 00:01:35,590
+exactly how to go about doing that step
+by step. Let's get into it. Let's talk
+
+58
+00:01:35,590 --> 00:01:35,600
+by step. Let's get into it. Let's talk
+ 
+
+59
+00:01:35,600 --> 00:01:38,069
+by step. Let's get into it. Let's talk
+about the sources that I'm going to be
+
+60
+00:01:38,069 --> 00:01:38,079
+about the sources that I'm going to be
+ 
+
+61
+00:01:38,079 --> 00:01:40,630
+about the sources that I'm going to be
+loading up into it. And they fall into
+
+62
+00:01:40,630 --> 00:01:40,640
+loading up into it. And they fall into
+ 
+
+63
+00:01:40,640 --> 00:01:42,710
+loading up into it. And they fall into
+three categories. The first one is
+
+64
+00:01:42,710 --> 00:01:42,720
+three categories. The first one is
+ 
+
+65
+00:01:42,720 --> 00:01:45,190
+three categories. The first one is
+private notes. Your personal private
+
+66
+00:01:45,190 --> 00:01:45,200
+private notes. Your personal private
+ 
+
+67
+00:01:45,200 --> 00:01:46,789
+private notes. Your personal private
+notes are really one of the best
+
+68
+00:01:46,789 --> 00:01:46,799
+notes are really one of the best
+ 
+
+69
+00:01:46,799 --> 00:01:49,109
+notes are really one of the best
+sources. Most people don't have a lot of
+
+70
+00:01:49,109 --> 00:01:49,119
+sources. Most people don't have a lot of
+ 
+
+71
+00:01:49,119 --> 00:01:51,510
+sources. Most people don't have a lot of
+public writing, don't necessarily do
+
+72
+00:01:51,510 --> 00:01:51,520
+public writing, don't necessarily do
+ 
+
+73
+00:01:51,520 --> 00:01:53,910
+public writing, don't necessarily do
+annual reviews, but we all have notes.
+
+74
+00:01:53,910 --> 00:01:53,920
+annual reviews, but we all have notes.
+ 
+
+75
+00:01:53,920 --> 00:01:56,630
+annual reviews, but we all have notes.
+It might be something as simple as some
+
+76
+00:01:56,630 --> 00:01:56,640
+It might be something as simple as some
+ 
+
+77
+00:01:56,640 --> 00:01:58,789
+It might be something as simple as some
+text from an email you sent a friend in
+
+78
+00:01:58,789 --> 00:01:58,799
+text from an email you sent a friend in
+ 
+
+79
+00:01:58,799 --> 00:02:01,030
+text from an email you sent a friend in
+the past or something you've jotted down
+
+80
+00:02:01,030 --> 00:02:01,040
+the past or something you've jotted down
+ 
+
+81
+00:02:01,040 --> 00:02:03,030
+the past or something you've jotted down
+in your Apple Notes. Notes have this
+
+82
+00:02:03,030 --> 00:02:03,040
+in your Apple Notes. Notes have this
+ 
+
+83
+00:02:03,040 --> 00:02:05,270
+in your Apple Notes. Notes have this
+quality of being very honest, very
+
+84
+00:02:05,270 --> 00:02:05,280
+quality of being very honest, very
+ 
+
+85
+00:02:05,280 --> 00:02:06,789
+quality of being very honest, very
+vulnerable because you have no
+
+86
+00:02:06,789 --> 00:02:06,799
+vulnerable because you have no
+ 
+
+87
+00:02:06,799 --> 00:02:09,430
+vulnerable because you have no
+expectation of ever sharing them. And
+
+88
+00:02:09,430 --> 00:02:09,440
+expectation of ever sharing them. And
+ 
+
+89
+00:02:09,440 --> 00:02:11,589
+expectation of ever sharing them. And
+it's perfectly fine if they're messy all
+
+90
+00:02:11,589 --> 00:02:11,599
+it's perfectly fine if they're messy all
+ 
+
+91
+00:02:11,599 --> 00:02:14,710
+it's perfectly fine if they're messy all
+over the place with typos. AI can handle
+
+92
+00:02:14,710 --> 00:02:14,720
+over the place with typos. AI can handle
+ 
+
+93
+00:02:14,720 --> 00:02:16,630
+over the place with typos. AI can handle
+all of that and see through all of the
+
+94
+00:02:16,630 --> 00:02:16,640
+all of that and see through all of the
+ 
+
+95
+00:02:16,640 --> 00:02:18,630
+all of that and see through all of the
+messiness and still make use of those
+
+96
+00:02:18,630 --> 00:02:18,640
+messiness and still make use of those
+ 
+
+97
+00:02:18,640 --> 00:02:20,869
+messiness and still make use of those
+notes. So these private notes contain
+
+98
+00:02:20,869 --> 00:02:20,879
+notes. So these private notes contain
+ 
+
+99
+00:02:20,879 --> 00:02:23,190
+notes. So these private notes contain
+things like all of the notes from my
+
+100
+00:02:23,190 --> 00:02:23,200
+things like all of the notes from my
+ 
+
+101
+00:02:23,200 --> 00:02:25,830
+things like all of the notes from my
+coaching sessions with my human coach
+
+102
+00:02:25,830 --> 00:02:25,840
+coaching sessions with my human coach
+ 
+
+103
+00:02:25,840 --> 00:02:28,470
+coaching sessions with my human coach
+over the past few years, images which
+
+104
+00:02:28,470 --> 00:02:28,480
+over the past few years, images which
+ 
+
+105
+00:02:28,480 --> 00:02:30,949
+over the past few years, images which
+Notebook LM can now understand. There's
+
+106
+00:02:30,949 --> 00:02:30,959
+Notebook LM can now understand. There's
+ 
+
+107
+00:02:30,959 --> 00:02:32,869
+Notebook LM can now understand. There's
+a mind map that I update every year with
+
+108
+00:02:32,869 --> 00:02:32,879
+a mind map that I update every year with
+ 
+
+109
+00:02:32,879 --> 00:02:35,509
+a mind map that I update every year with
+my life goals, my big five personality
+
+110
+00:02:35,509 --> 00:02:35,519
+my life goals, my big five personality
+ 
+
+111
+00:02:35,519 --> 00:02:37,990
+my life goals, my big five personality
+traits, which I have uh from a survey,
+
+112
+00:02:37,990 --> 00:02:38,000
+traits, which I have uh from a survey,
+ 
+
+113
+00:02:38,000 --> 00:02:39,350
+traits, which I have uh from a survey,
+and then what's called my time
+
+114
+00:02:39,350 --> 00:02:39,360
+and then what's called my time
+ 
+
+115
+00:02:39,360 --> 00:02:41,509
+and then what's called my time
+perspective, which is from a book by an
+
+116
+00:02:41,509 --> 00:02:41,519
+perspective, which is from a book by an
+ 
+
+117
+00:02:41,519 --> 00:02:43,350
+perspective, which is from a book by an
+author named Zambardo, which is about my
+
+118
+00:02:43,350 --> 00:02:43,360
+author named Zambardo, which is about my
+ 
+
+119
+00:02:43,360 --> 00:02:45,430
+author named Zambardo, which is about my
+relationship to time. I also have a
+
+120
+00:02:45,430 --> 00:02:45,440
+relationship to time. I also have a
+ 
+
+121
+00:02:45,440 --> 00:02:47,910
+relationship to time. I also have a
+collection of my strengths based on
+
+122
+00:02:47,910 --> 00:02:47,920
+collection of my strengths based on
+ 
+
+123
+00:02:47,920 --> 00:02:50,229
+collection of my strengths based on
+years of customer testimonials that I've
+
+124
+00:02:50,229 --> 00:02:50,239
+years of customer testimonials that I've
+ 
+
+125
+00:02:50,239 --> 00:02:53,190
+years of customer testimonials that I've
+collected. I have a compilation of all
+
+126
+00:02:53,190 --> 00:02:53,200
+collected. I have a compilation of all
+ 
+
+127
+00:02:53,200 --> 00:02:55,110
+collected. I have a compilation of all
+my gratitude lists, which is something
+
+128
+00:02:55,110 --> 00:02:55,120
+my gratitude lists, which is something
+ 
+
+129
+00:02:55,120 --> 00:02:56,630
+my gratitude lists, which is something
+that I do at the end of every year. I
+
+130
+00:02:56,630 --> 00:02:56,640
+that I do at the end of every year. I
+ 
+
+131
+00:02:56,640 --> 00:02:58,150
+that I do at the end of every year. I
+just make a big list of everything that
+
+132
+00:02:58,150 --> 00:02:58,160
+just make a big list of everything that
+ 
+
+133
+00:02:58,160 --> 00:03:00,869
+just make a big list of everything that
+I'm thankful for. and also myersbrig
+
+134
+00:03:00,869 --> 00:03:00,879
+I'm thankful for. and also myersbrig
+ 
+
+135
+00:03:00,879 --> 00:03:02,869
+I'm thankful for. and also myersbrig
+profile. And if you're curious how I
+
+136
+00:03:02,869 --> 00:03:02,879
+profile. And if you're curious how I
+ 
+
+137
+00:03:02,879 --> 00:03:04,790
+profile. And if you're curious how I
+have all these notes, check out my book
+
+138
+00:03:04,790 --> 00:03:04,800
+have all these notes, check out my book
+ 
+
+139
+00:03:04,800 --> 00:03:06,710
+have all these notes, check out my book
+and course and membership called
+
+140
+00:03:06,710 --> 00:03:06,720
+and course and membership called
+ 
+
+141
+00:03:06,720 --> 00:03:09,110
+and course and membership called
+Building a Second Brain, which is all
+
+142
+00:03:09,110 --> 00:03:09,120
+Building a Second Brain, which is all
+ 
+
+143
+00:03:09,120 --> 00:03:10,790
+Building a Second Brain, which is all
+about how to create an effective
+
+144
+00:03:10,790 --> 00:03:10,800
+about how to create an effective
+ 
+
+145
+00:03:10,800 --> 00:03:13,110
+about how to create an effective
+note-taking system. Next, we have my
+
+146
+00:03:13,110 --> 00:03:13,120
+note-taking system. Next, we have my
+ 
+
+147
+00:03:13,120 --> 00:03:15,910
+note-taking system. Next, we have my
+public writing from takeaways from
+
+148
+00:03:15,910 --> 00:03:15,920
+public writing from takeaways from
+ 
+
+149
+00:03:15,920 --> 00:03:17,990
+public writing from takeaways from
+courses I've taken to my experience at
+
+150
+00:03:17,990 --> 00:03:18,000
+courses I've taken to my experience at
+ 
+
+151
+00:03:18,000 --> 00:03:20,710
+courses I've taken to my experience at
+Burning Man to summaries of books that I
+
+152
+00:03:20,710 --> 00:03:20,720
+Burning Man to summaries of books that I
+ 
+
+153
+00:03:20,720 --> 00:03:22,550
+Burning Man to summaries of books that I
+found compelling, writing I've done
+
+154
+00:03:22,550 --> 00:03:22,560
+found compelling, writing I've done
+ 
+
+155
+00:03:22,560 --> 00:03:24,869
+found compelling, writing I've done
+about sort of my autobiography, my life
+
+156
+00:03:24,869 --> 00:03:24,879
+about sort of my autobiography, my life
+ 
+
+157
+00:03:24,879 --> 00:03:26,869
+about sort of my autobiography, my life
+story, a list of my favorite open
+
+158
+00:03:26,869 --> 00:03:26,879
+story, a list of my favorite open
+ 
+
+159
+00:03:26,879 --> 00:03:29,630
+story, a list of my favorite open
+questions. So these are all public
+
+160
+00:03:29,630 --> 00:03:29,640
+questions. So these are all public
+ 
+
+161
+00:03:29,640 --> 00:03:31,990
+questions. So these are all public
+sources that I've written about
+
+162
+00:03:31,990 --> 00:03:32,000
+sources that I've written about
+ 
+
+163
+00:03:32,000 --> 00:03:33,990
+sources that I've written about
+different aspects of how I think about
+
+164
+00:03:33,990 --> 00:03:34,000
+different aspects of how I think about
+ 
+
+165
+00:03:34,000 --> 00:03:36,070
+different aspects of how I think about
+life and where I want to go in life and
+
+166
+00:03:36,070 --> 00:03:36,080
+life and where I want to go in life and
+ 
+
+167
+00:03:36,080 --> 00:03:37,750
+life and where I want to go in life and
+where I've been. And then the third
+
+168
+00:03:37,750 --> 00:03:37,760
+where I've been. And then the third
+ 
+
+169
+00:03:37,760 --> 00:03:41,350
+where I've been. And then the third
+category is also a ritual that I perform
+
+170
+00:03:41,350 --> 00:03:41,360
+category is also a ritual that I perform
+ 
+
+171
+00:03:41,360 --> 00:03:43,589
+category is also a ritual that I perform
+at the end of every year which is my
+
+172
+00:03:43,589 --> 00:03:43,599
+at the end of every year which is my
+ 
+
+173
+00:03:43,599 --> 00:03:46,710
+at the end of every year which is my
+yearend review or yearin review. And
+
+174
+00:03:46,710 --> 00:03:46,720
+yearend review or yearin review. And
+ 
+
+175
+00:03:46,720 --> 00:03:49,350
+yearend review or yearin review. And
+that's simply a practice that I do every
+
+176
+00:03:49,350 --> 00:03:49,360
+that's simply a practice that I do every
+ 
+
+177
+00:03:49,360 --> 00:03:51,589
+that's simply a practice that I do every
+December where I write about what
+
+178
+00:03:51,589 --> 00:03:51,599
+December where I write about what
+ 
+
+179
+00:03:51,599 --> 00:03:53,030
+December where I write about what
+happened that year. What were the high
+
+180
+00:03:53,030 --> 00:03:53,040
+happened that year. What were the high
+ 
+
+181
+00:03:53,040 --> 00:03:55,190
+happened that year. What were the high
+points, the low points, the takeaways,
+
+182
+00:03:55,190 --> 00:03:55,200
+points, the low points, the takeaways,
+ 
+
+183
+00:03:55,200 --> 00:03:57,429
+points, the low points, the takeaways,
+the lessons learned. So you can see I
+
+184
+00:03:57,429 --> 00:03:57,439
+the lessons learned. So you can see I
+ 
+
+185
+00:03:57,439 --> 00:04:00,070
+the lessons learned. So you can see I
+have chosen and linked to the last five
+
+186
+00:04:00,070 --> 00:04:00,080
+have chosen and linked to the last five
+ 
+
+187
+00:04:00,080 --> 00:04:02,630
+have chosen and linked to the last five
+years because I want my coach to take
+
+188
+00:04:02,630 --> 00:04:02,640
+years because I want my coach to take
+ 
+
+189
+00:04:02,640 --> 00:04:05,670
+years because I want my coach to take
+that into account and to guide and help
+
+190
+00:04:05,670 --> 00:04:05,680
+that into account and to guide and help
+ 
+
+191
+00:04:05,680 --> 00:04:07,429
+that into account and to guide and help
+me and support me towards achieving
+
+192
+00:04:07,429 --> 00:04:07,439
+me and support me towards achieving
+ 
+
+193
+00:04:07,439 --> 00:04:10,229
+me and support me towards achieving
+those things. So now let's head over to
+
+194
+00:04:10,229 --> 00:04:10,239
+those things. So now let's head over to
+ 
+
+195
+00:04:10,239 --> 00:04:12,390
+those things. So now let's head over to
+Notebook LM. You'll notice that I'm
+
+196
+00:04:12,390 --> 00:04:12,400
+Notebook LM. You'll notice that I'm
+ 
+
+197
+00:04:12,400 --> 00:04:14,470
+Notebook LM. You'll notice that I'm
+using the paid version, Notebook LM
+
+198
+00:04:14,470 --> 00:04:14,480
+using the paid version, Notebook LM
+ 
+
+199
+00:04:14,480 --> 00:04:17,430
+using the paid version, Notebook LM
+Plus, which is about $20 per month. And
+
+200
+00:04:17,430 --> 00:04:17,440
+Plus, which is about $20 per month. And
+ 
+
+201
+00:04:17,440 --> 00:04:19,030
+Plus, which is about $20 per month. And
+as always, I'm going to start by
+
+202
+00:04:19,030 --> 00:04:19,040
+as always, I'm going to start by
+ 
+
+203
+00:04:19,040 --> 00:04:21,270
+as always, I'm going to start by
+creating a new project. If you're
+
+204
+00:04:21,270 --> 00:04:21,280
+creating a new project. If you're
+ 
+
+205
+00:04:21,280 --> 00:04:23,270
+creating a new project. If you're
+curious how I'm actually doing this
+
+206
+00:04:23,270 --> 00:04:23,280
+curious how I'm actually doing this
+ 
+
+207
+00:04:23,280 --> 00:04:25,670
+curious how I'm actually doing this
+loading up of sources one by one, check
+
+208
+00:04:25,670 --> 00:04:25,680
+loading up of sources one by one, check
+ 
+
+209
+00:04:25,680 --> 00:04:27,510
+loading up of sources one by one, check
+out this previous video where I cover
+
+210
+00:04:27,510 --> 00:04:27,520
+out this previous video where I cover
+ 
+
+211
+00:04:27,520 --> 00:04:29,430
+out this previous video where I cover
+that in depth. Now, this is the part
+
+212
+00:04:29,430 --> 00:04:29,440
+that in depth. Now, this is the part
+ 
+
+213
+00:04:29,440 --> 00:04:31,270
+that in depth. Now, this is the part
+that's a little bit timeconuming and
+
+214
+00:04:31,270 --> 00:04:31,280
+that's a little bit timeconuming and
+ 
+
+215
+00:04:31,280 --> 00:04:33,350
+that's a little bit timeconuming and
+we're going to speed through the process
+
+216
+00:04:33,350 --> 00:04:33,360
+we're going to speed through the process
+ 
+
+217
+00:04:33,360 --> 00:04:35,670
+we're going to speed through the process
+of individually selecting each of those
+
+218
+00:04:35,670 --> 00:04:35,680
+of individually selecting each of those
+ 
+
+219
+00:04:35,680 --> 00:04:37,909
+of individually selecting each of those
+sources that I've prepared and loading
+
+220
+00:04:37,909 --> 00:04:37,919
+sources that I've prepared and loading
+ 
+
+221
+00:04:37,919 --> 00:04:40,310
+sources that I've prepared and loading
+them up into this project in Notebook
+
+222
+00:04:40,310 --> 00:04:40,320
+them up into this project in Notebook
+ 
+
+223
+00:04:40,320 --> 00:04:42,310
+them up into this project in Notebook
+LM. Would you be willing and open to
+
+224
+00:04:42,310 --> 00:04:42,320
+LM. Would you be willing and open to
+ 
+
+225
+00:04:42,320 --> 00:04:44,070
+LM. Would you be willing and open to
+load up really some of your most
+
+226
+00:04:44,070 --> 00:04:44,080
+load up really some of your most
+ 
+
+227
+00:04:44,080 --> 00:04:46,230
+load up really some of your most
+personal sensitive material and
+
+228
+00:04:46,230 --> 00:04:46,240
+personal sensitive material and
+ 
+
+229
+00:04:46,240 --> 00:04:48,710
+personal sensitive material and
+introspection to AI? Well, here I am
+
+230
+00:04:48,710 --> 00:04:48,720
+introspection to AI? Well, here I am
+ 
+
+231
+00:04:48,720 --> 00:04:50,909
+introspection to AI? Well, here I am
+testing it for you to
+
+232
+00:04:50,909 --> 00:04:50,919
+testing it for you to
+ 
+
+233
+00:04:50,919 --> 00:04:55,270
+testing it for you to
+see. All right. Okay. So, that took me
+
+234
+00:04:55,270 --> 00:04:55,280
+see. All right. Okay. So, that took me
+ 
+
+235
+00:04:55,280 --> 00:04:58,550
+see. All right. Okay. So, that took me
+about 17 minutes. Uh, definitely took
+
+236
+00:04:58,550 --> 00:04:58,560
+about 17 minutes. Uh, definitely took
+ 
+
+237
+00:04:58,560 --> 00:05:00,469
+about 17 minutes. Uh, definitely took
+some effort. If you look here in the
+
+238
+00:05:00,469 --> 00:05:00,479
+some effort. If you look here in the
+ 
+
+239
+00:05:00,479 --> 00:05:02,950
+some effort. If you look here in the
+left side panel, I have about 40
+
+240
+00:05:02,950 --> 00:05:02,960
+left side panel, I have about 40
+ 
+
+241
+00:05:02,960 --> 00:05:06,390
+left side panel, I have about 40
+different sources totaling more than
+
+242
+00:05:06,390 --> 00:05:06,400
+different sources totaling more than
+ 
+
+243
+00:05:06,400 --> 00:05:09,189
+different sources totaling more than
+150,000 words. Think about how sci-fi
+
+244
+00:05:09,189 --> 00:05:09,199
+150,000 words. Think about how sci-fi
+ 
+
+245
+00:05:09,199 --> 00:05:11,510
+150,000 words. Think about how sci-fi
+and futuristic this is that I can just
+
+246
+00:05:11,510 --> 00:05:11,520
+and futuristic this is that I can just
+ 
+
+247
+00:05:11,520 --> 00:05:13,670
+and futuristic this is that I can just
+sit here and load all this up and now
+
+248
+00:05:13,670 --> 00:05:13,680
+sit here and load all this up and now
+ 
+
+249
+00:05:13,680 --> 00:05:15,670
+sit here and load all this up and now
+I'm just going to have a conversation
+
+250
+00:05:15,670 --> 00:05:15,680
+I'm just going to have a conversation
+ 
+
+251
+00:05:15,680 --> 00:05:18,790
+I'm just going to have a conversation
+drawing on over 150,000 words of my
+
+252
+00:05:18,790 --> 00:05:18,800
+drawing on over 150,000 words of my
+ 
+
+253
+00:05:18,800 --> 00:05:21,670
+drawing on over 150,000 words of my
+personal context and life story. Just
+
+254
+00:05:21,670 --> 00:05:21,680
+personal context and life story. Just
+ 
+
+255
+00:05:21,680 --> 00:05:23,189
+personal context and life story. Just
+completely mind-blowing. Let's just
+
+256
+00:05:23,189 --> 00:05:23,199
+completely mind-blowing. Let's just
+ 
+
+257
+00:05:23,199 --> 00:05:25,430
+completely mind-blowing. Let's just
+recognize that fact for a second. The
+
+258
+00:05:25,430 --> 00:05:25,440
+recognize that fact for a second. The
+ 
+
+259
+00:05:25,440 --> 00:05:27,909
+recognize that fact for a second. The
+next step here is to start asking
+
+260
+00:05:27,909 --> 00:05:27,919
+next step here is to start asking
+ 
+
+261
+00:05:27,919 --> 00:05:30,870
+next step here is to start asking
+questions. Let's head over to the Google
+
+262
+00:05:30,870 --> 00:05:30,880
+questions. Let's head over to the Google
+ 
+
+263
+00:05:30,880 --> 00:05:33,110
+questions. Let's head over to the Google
+doc that I prepared beforehand again.
+
+264
+00:05:33,110 --> 00:05:33,120
+doc that I prepared beforehand again.
+ 
+
+265
+00:05:33,120 --> 00:05:36,070
+doc that I prepared beforehand again.
+And here I have about 30 questions, many
+
+266
+00:05:36,070 --> 00:05:36,080
+And here I have about 30 questions, many
+ 
+
+267
+00:05:36,080 --> 00:05:38,310
+And here I have about 30 questions, many
+of which actually came from my previous
+
+268
+00:05:38,310 --> 00:05:38,320
+of which actually came from my previous
+ 
+
+269
+00:05:38,320 --> 00:05:40,629
+of which actually came from my previous
+conversations with AI models. You can
+
+270
+00:05:40,629 --> 00:05:40,639
+conversations with AI models. You can
+ 
+
+271
+00:05:40,639 --> 00:05:42,469
+conversations with AI models. You can
+find a list of the questions that I used
+
+272
+00:05:42,469 --> 00:05:42,479
+find a list of the questions that I used
+ 
+
+273
+00:05:42,479 --> 00:05:45,029
+find a list of the questions that I used
+in this demonstration at this QR code or
+
+274
+00:05:45,029 --> 00:05:45,039
+in this demonstration at this QR code or
+ 
+
+275
+00:05:45,039 --> 00:05:47,110
+in this demonstration at this QR code or
+in the description below. So let's start
+
+276
+00:05:47,110 --> 00:05:47,120
+in the description below. So let's start
+ 
+
+277
+00:05:47,120 --> 00:05:49,350
+in the description below. So let's start
+with this one right here. So I'll copy
+
+278
+00:05:49,350 --> 00:05:49,360
+with this one right here. So I'll copy
+ 
+
+279
+00:05:49,360 --> 00:05:52,070
+with this one right here. So I'll copy
+that, head over here, paste it into the
+
+280
+00:05:52,070 --> 00:05:52,080
+that, head over here, paste it into the
+ 
+
+281
+00:05:52,080 --> 00:05:54,790
+that, head over here, paste it into the
+chat window. So for strengths, it
+
+282
+00:05:54,790 --> 00:05:54,800
+chat window. So for strengths, it
+ 
+
+283
+00:05:54,800 --> 00:05:56,749
+chat window. So for strengths, it
+identifies knowledgeable and deep
+
+284
+00:05:56,749 --> 00:05:56,759
+identifies knowledgeable and deep
+ 
+
+285
+00:05:56,759 --> 00:05:59,189
+identifies knowledgeable and deep
+understanding, visionary and futuristic
+
+286
+00:05:59,189 --> 00:05:59,199
+understanding, visionary and futuristic
+ 
+
+287
+00:05:59,199 --> 00:06:01,510
+understanding, visionary and futuristic
+thinking, creativity, being innovative,
+
+288
+00:06:01,510 --> 00:06:01,520
+thinking, creativity, being innovative,
+ 
+
+289
+00:06:01,520 --> 00:06:03,590
+thinking, creativity, being innovative,
+insightful, and perspective. It's
+
+290
+00:06:03,590 --> 00:06:03,600
+insightful, and perspective. It's
+ 
+
+291
+00:06:03,600 --> 00:06:05,350
+insightful, and perspective. It's
+interesting. There's not really any new
+
+292
+00:06:05,350 --> 00:06:05,360
+interesting. There's not really any new
+ 
+
+293
+00:06:05,360 --> 00:06:06,870
+interesting. There's not really any new
+information here, but what I'm kind of
+
+294
+00:06:06,870 --> 00:06:06,880
+information here, but what I'm kind of
+ 
+
+295
+00:06:06,880 --> 00:06:08,790
+information here, but what I'm kind of
+looking for is just to make sure that
+
+296
+00:06:08,790 --> 00:06:08,800
+looking for is just to make sure that
+ 
+
+297
+00:06:08,800 --> 00:06:11,430
+looking for is just to make sure that
+the AI is working. So let's look at
+
+298
+00:06:11,430 --> 00:06:11,440
+the AI is working. So let's look at
+ 
+
+299
+00:06:11,440 --> 00:06:13,350
+the AI is working. So let's look at
+weaknesses. And this is where I'm a
+
+300
+00:06:13,350 --> 00:06:13,360
+weaknesses. And this is where I'm a
+ 
+
+301
+00:06:13,360 --> 00:06:15,029
+weaknesses. And this is where I'm a
+little bit nervous to see what it came
+
+302
+00:06:15,029 --> 00:06:15,039
+little bit nervous to see what it came
+ 
+
+303
+00:06:15,039 --> 00:06:17,230
+little bit nervous to see what it came
+up with. Self-criticism and
+
+304
+00:06:17,230 --> 00:06:17,240
+up with. Self-criticism and
+ 
+
+305
+00:06:17,240 --> 00:06:19,749
+up with. Self-criticism and
+perfectionism. That's absolutely true.
+
+306
+00:06:19,749 --> 00:06:19,759
+perfectionism. That's absolutely true.
+ 
+
+307
+00:06:19,759 --> 00:06:21,749
+perfectionism. That's absolutely true.
+It notes that that is a common weakness
+
+308
+00:06:21,749 --> 00:06:21,759
+It notes that that is a common weakness
+ 
+
+309
+00:06:21,759 --> 00:06:24,950
+It notes that that is a common weakness
+for myersbrig profile which is INFJ. So
+
+310
+00:06:24,950 --> 00:06:24,960
+for myersbrig profile which is INFJ. So
+ 
+
+311
+00:06:24,960 --> 00:06:27,029
+for myersbrig profile which is INFJ. So
+that kind of oddly makes me feel a bit
+
+312
+00:06:27,029 --> 00:06:27,039
+that kind of oddly makes me feel a bit
+ 
+
+313
+00:06:27,039 --> 00:06:29,110
+that kind of oddly makes me feel a bit
+better that it's kind of characteristic
+
+314
+00:06:29,110 --> 00:06:29,120
+better that it's kind of characteristic
+ 
+
+315
+00:06:29,120 --> 00:06:31,909
+better that it's kind of characteristic
+of my personality type. Sensitivity to
+
+316
+00:06:31,909 --> 00:06:31,919
+of my personality type. Sensitivity to
+ 
+
+317
+00:06:31,919 --> 00:06:34,870
+of my personality type. Sensitivity to
+criticism and conflict. Tendency towards
+
+318
+00:06:34,870 --> 00:06:34,880
+criticism and conflict. Tendency towards
+ 
+
+319
+00:06:34,880 --> 00:06:37,309
+criticism and conflict. Tendency towards
+idealism and overlooking details
+
+320
+00:06:37,309 --> 00:06:37,319
+idealism and overlooking details
+ 
+
+321
+00:06:37,319 --> 00:06:40,469
+idealism and overlooking details
+definitely. Um social skills it says is
+
+322
+00:06:40,469 --> 00:06:40,479
+definitely. Um social skills it says is
+ 
+
+323
+00:06:40,479 --> 00:06:41,909
+definitely. Um social skills it says is
+a perceived challenge. That's
+
+324
+00:06:41,909 --> 00:06:41,919
+a perceived challenge. That's
+ 
+
+325
+00:06:41,919 --> 00:06:44,150
+a perceived challenge. That's
+interesting. So maybe it's not uh based
+
+326
+00:06:44,150 --> 00:06:44,160
+interesting. So maybe it's not uh based
+ 
+
+327
+00:06:44,160 --> 00:06:46,629
+interesting. So maybe it's not uh based
+in reality. It's just kind of how I see
+
+328
+00:06:46,629 --> 00:06:46,639
+in reality. It's just kind of how I see
+ 
+
+329
+00:06:46,639 --> 00:06:48,629
+in reality. It's just kind of how I see
+myself. emotional vulnerability,
+
+330
+00:06:48,629 --> 00:06:48,639
+myself. emotional vulnerability,
+ 
+
+331
+00:06:48,639 --> 00:06:51,189
+myself. emotional vulnerability,
+resistance to emotional processing. Uh
+
+332
+00:06:51,189 --> 00:06:51,199
+resistance to emotional processing. Uh
+ 
+
+333
+00:06:51,199 --> 00:06:53,189
+resistance to emotional processing. Uh
+specifically when it comes to the past,
+
+334
+00:06:53,189 --> 00:06:53,199
+specifically when it comes to the past,
+ 
+
+335
+00:06:53,199 --> 00:06:56,070
+specifically when it comes to the past,
+uh I'd say for sure uh potential for
+
+336
+00:06:56,070 --> 00:06:56,080
+uh I'd say for sure uh potential for
+ 
+
+337
+00:06:56,080 --> 00:06:57,990
+uh I'd say for sure uh potential for
+being overly private. I don't know about
+
+338
+00:06:57,990 --> 00:06:58,000
+being overly private. I don't know about
+ 
+
+339
+00:06:58,000 --> 00:06:59,909
+being overly private. I don't know about
+that one. I tend to share quite a bit
+
+340
+00:06:59,909 --> 00:06:59,919
+that one. I tend to share quite a bit
+ 
+
+341
+00:06:59,919 --> 00:07:01,510
+that one. I tend to share quite a bit
+publicly. Taking on too much
+
+342
+00:07:01,510 --> 00:07:01,520
+publicly. Taking on too much
+ 
+
+343
+00:07:01,520 --> 00:07:03,990
+publicly. Taking on too much
+responsibility, fear of being ordinary,
+
+344
+00:07:03,990 --> 00:07:04,000
+responsibility, fear of being ordinary,
+ 
+
+345
+00:07:04,000 --> 00:07:05,990
+responsibility, fear of being ordinary,
+uh overthinking and analysis paralysis.
+
+346
+00:07:05,990 --> 00:07:06,000
+uh overthinking and analysis paralysis.
+ 
+
+347
+00:07:06,000 --> 00:07:08,469
+uh overthinking and analysis paralysis.
+I mean, this is the most thorough and I
+
+348
+00:07:08,469 --> 00:07:08,479
+I mean, this is the most thorough and I
+ 
+
+349
+00:07:08,479 --> 00:07:11,270
+I mean, this is the most thorough and I
+would say accurate list uh of my
+
+350
+00:07:11,270 --> 00:07:11,280
+would say accurate list uh of my
+ 
+
+351
+00:07:11,280 --> 00:07:13,350
+would say accurate list uh of my
+weaknesses I think I've ever seen. Next,
+
+352
+00:07:13,350 --> 00:07:13,360
+weaknesses I think I've ever seen. Next,
+ 
+
+353
+00:07:13,360 --> 00:07:14,950
+weaknesses I think I've ever seen. Next,
+I want to know what have been my
+
+354
+00:07:14,950 --> 00:07:14,960
+I want to know what have been my
+ 
+
+355
+00:07:14,960 --> 00:07:17,749
+I want to know what have been my
+recurring challenges or obstacles. So,
+
+356
+00:07:17,749 --> 00:07:17,759
+recurring challenges or obstacles. So,
+ 
+
+357
+00:07:17,759 --> 00:07:19,909
+recurring challenges or obstacles. So,
+let's copy that. I'm just going to go
+
+358
+00:07:19,909 --> 00:07:19,919
+let's copy that. I'm just going to go
+ 
+
+359
+00:07:19,919 --> 00:07:22,309
+let's copy that. I'm just going to go
+ahead and paste that. So, this is
+
+360
+00:07:22,309 --> 00:07:22,319
+ahead and paste that. So, this is
+ 
+
+361
+00:07:22,319 --> 00:07:23,830
+ahead and paste that. So, this is
+interesting. It's a lot of the same
+
+362
+00:07:23,830 --> 00:07:23,840
+interesting. It's a lot of the same
+ 
+
+363
+00:07:23,840 --> 00:07:25,749
+interesting. It's a lot of the same
+things as my weaknesses, but there's
+
+364
+00:07:25,749 --> 00:07:25,759
+things as my weaknesses, but there's
+ 
+
+365
+00:07:25,759 --> 00:07:28,950
+things as my weaknesses, but there's
+also some different things such as fear
+
+366
+00:07:28,950 --> 00:07:28,960
+also some different things such as fear
+ 
+
+367
+00:07:28,960 --> 00:07:30,790
+also some different things such as fear
+of failure or fear of not achieving
+
+368
+00:07:30,790 --> 00:07:30,800
+of failure or fear of not achieving
+ 
+
+369
+00:07:30,800 --> 00:07:33,029
+of failure or fear of not achieving
+enough. That is not exactly a weakness.
+
+370
+00:07:33,029 --> 00:07:33,039
+enough. That is not exactly a weakness.
+ 
+
+371
+00:07:33,039 --> 00:07:34,870
+enough. That is not exactly a weakness.
+It's more like a recurring challenge
+
+372
+00:07:34,870 --> 00:07:34,880
+It's more like a recurring challenge
+ 
+
+373
+00:07:34,880 --> 00:07:38,710
+It's more like a recurring challenge
+that comes from the weakness of uh being
+
+374
+00:07:38,710 --> 00:07:38,720
+that comes from the weakness of uh being
+ 
+
+375
+00:07:38,720 --> 00:07:40,950
+that comes from the weakness of uh being
+too self-critical. It's drawing on some
+
+376
+00:07:40,950 --> 00:07:40,960
+too self-critical. It's drawing on some
+ 
+
+377
+00:07:40,960 --> 00:07:42,790
+too self-critical. It's drawing on some
+of my writing about my personal
+
+378
+00:07:42,790 --> 00:07:42,800
+of my writing about my personal
+ 
+
+379
+00:07:42,800 --> 00:07:44,710
+of my writing about my personal
+development that I've done. It's drawing
+
+380
+00:07:44,710 --> 00:07:44,720
+development that I've done. It's drawing
+ 
+
+381
+00:07:44,720 --> 00:07:46,469
+development that I've done. It's drawing
+on my coaching notes with my human
+
+382
+00:07:46,469 --> 00:07:46,479
+on my coaching notes with my human
+ 
+
+383
+00:07:46,479 --> 00:07:48,710
+on my coaching notes with my human
+coach. You'll notice that the first few
+
+384
+00:07:48,710 --> 00:07:48,720
+coach. You'll notice that the first few
+ 
+
+385
+00:07:48,720 --> 00:07:50,870
+coach. You'll notice that the first few
+questions that I asked were sort of just
+
+386
+00:07:50,870 --> 00:07:50,880
+questions that I asked were sort of just
+ 
+
+387
+00:07:50,880 --> 00:07:53,510
+questions that I asked were sort of just
+getting a lay of the land, just asking
+
+388
+00:07:53,510 --> 00:07:53,520
+getting a lay of the land, just asking
+ 
+
+389
+00:07:53,520 --> 00:07:56,070
+getting a lay of the land, just asking
+the AI to repeat back to me or to
+
+390
+00:07:56,070 --> 00:07:56,080
+the AI to repeat back to me or to
+ 
+
+391
+00:07:56,080 --> 00:07:59,189
+the AI to repeat back to me or to
+summarize or to distill what it sees in
+
+392
+00:07:59,189 --> 00:07:59,199
+summarize or to distill what it sees in
+ 
+
+393
+00:07:59,199 --> 00:08:02,309
+summarize or to distill what it sees in
+my life story. But now I'm going to sort
+
+394
+00:08:02,309 --> 00:08:02,319
+my life story. But now I'm going to sort
+ 
+
+395
+00:08:02,319 --> 00:08:04,390
+my life story. But now I'm going to sort
+of make a turn to a different kind of
+
+396
+00:08:04,390 --> 00:08:04,400
+of make a turn to a different kind of
+ 
+
+397
+00:08:04,400 --> 00:08:07,270
+of make a turn to a different kind of
+question which is much more subjective
+
+398
+00:08:07,270 --> 00:08:07,280
+question which is much more subjective
+ 
+
+399
+00:08:07,280 --> 00:08:09,909
+question which is much more subjective
+and much more interpretive and really
+
+400
+00:08:09,909 --> 00:08:09,919
+and much more interpretive and really
+ 
+
+401
+00:08:09,919 --> 00:08:12,070
+and much more interpretive and really
+draws on things like judgment and even
+
+402
+00:08:12,070 --> 00:08:12,080
+draws on things like judgment and even
+ 
+
+403
+00:08:12,080 --> 00:08:14,629
+draws on things like judgment and even
+wisdom. So I think this will be the real
+
+404
+00:08:14,629 --> 00:08:14,639
+wisdom. So I think this will be the real
+ 
+
+405
+00:08:14,639 --> 00:08:17,270
+wisdom. So I think this will be the real
+challenge to see if AI can not just
+
+406
+00:08:17,270 --> 00:08:17,280
+challenge to see if AI can not just
+ 
+
+407
+00:08:17,280 --> 00:08:19,430
+challenge to see if AI can not just
+summarize stuff but actually give me
+
+408
+00:08:19,430 --> 00:08:19,440
+summarize stuff but actually give me
+ 
+
+409
+00:08:19,440 --> 00:08:23,589
+summarize stuff but actually give me
+advice and point out insights or blind
+
+410
+00:08:23,589 --> 00:08:23,599
+advice and point out insights or blind
+ 
+
+411
+00:08:23,599 --> 00:08:25,670
+advice and point out insights or blind
+spots that I might not even be aware of
+
+412
+00:08:25,670 --> 00:08:25,680
+spots that I might not even be aware of
+ 
+
+413
+00:08:25,680 --> 00:08:28,469
+spots that I might not even be aware of
+myself. Are there any contradictions
+
+414
+00:08:28,469 --> 00:08:28,479
+myself. Are there any contradictions
+ 
+
+415
+00:08:28,479 --> 00:08:30,710
+myself. Are there any contradictions
+between my stated intentions such as my
+
+416
+00:08:30,710 --> 00:08:30,720
+between my stated intentions such as my
+ 
+
+417
+00:08:30,720 --> 00:08:33,670
+between my stated intentions such as my
+goals and what I actually do and the
+
+418
+00:08:33,670 --> 00:08:33,680
+goals and what I actually do and the
+ 
+
+419
+00:08:33,680 --> 00:08:35,750
+goals and what I actually do and the
+results that I've achieved? Oh boy, here
+
+420
+00:08:35,750 --> 00:08:35,760
+results that I've achieved? Oh boy, here
+ 
+
+421
+00:08:35,760 --> 00:08:38,389
+results that I've achieved? Oh boy, here
+we go. So, based on the sources, there
+
+422
+00:08:38,389 --> 00:08:38,399
+we go. So, based on the sources, there
+ 
+
+423
+00:08:38,399 --> 00:08:40,790
+we go. So, based on the sources, there
+appear to be several contradictions
+
+424
+00:08:40,790 --> 00:08:40,800
+appear to be several contradictions
+ 
+
+425
+00:08:40,800 --> 00:08:43,430
+appear to be several contradictions
+between your stated intentions and your
+
+426
+00:08:43,430 --> 00:08:43,440
+between your stated intentions and your
+ 
+
+427
+00:08:43,440 --> 00:08:46,070
+between your stated intentions and your
+actions or results. Looks like I often
+
+428
+00:08:46,070 --> 00:08:46,080
+actions or results. Looks like I often
+ 
+
+429
+00:08:46,080 --> 00:08:47,829
+actions or results. Looks like I often
+express an intention for work life
+
+430
+00:08:47,829 --> 00:08:47,839
+express an intention for work life
+ 
+
+431
+00:08:47,839 --> 00:08:50,710
+express an intention for work life
+balance, but then what I actually do
+
+432
+00:08:50,710 --> 00:08:50,720
+balance, but then what I actually do
+ 
+
+433
+00:08:50,720 --> 00:08:53,350
+balance, but then what I actually do
+prioritizes work. Ouch. It's noting that
+
+434
+00:08:53,350 --> 00:08:53,360
+prioritizes work. Ouch. It's noting that
+ 
+
+435
+00:08:53,360 --> 00:08:54,590
+prioritizes work. Ouch. It's noting that
+I tend to
+
+436
+00:08:54,590 --> 00:08:54,600
+I tend to
+ 
+
+437
+00:08:54,600 --> 00:08:57,030
+I tend to
+compartmentalize and derive a lot of joy
+
+438
+00:08:57,030 --> 00:08:57,040
+compartmentalize and derive a lot of joy
+ 
+
+439
+00:08:57,040 --> 00:08:59,750
+compartmentalize and derive a lot of joy
+and creativity from my work, but then
+
+440
+00:08:59,750 --> 00:08:59,760
+and creativity from my work, but then
+ 
+
+441
+00:08:59,760 --> 00:09:02,070
+and creativity from my work, but then
+have trouble spreading that to other
+
+442
+00:09:02,070 --> 00:09:02,080
+have trouble spreading that to other
+ 
+
+443
+00:09:02,080 --> 00:09:04,870
+have trouble spreading that to other
+places such as my home and work life.
+
+444
+00:09:04,870 --> 00:09:04,880
+places such as my home and work life.
+ 
+
+445
+00:09:04,880 --> 00:09:06,630
+places such as my home and work life.
+That hurts, but it is definitely
+
+446
+00:09:06,630 --> 00:09:06,640
+That hurts, but it is definitely
+ 
+
+447
+00:09:06,640 --> 00:09:08,870
+That hurts, but it is definitely
+accurate. So, despite expressing those
+
+448
+00:09:08,870 --> 00:09:08,880
+accurate. So, despite expressing those
+ 
+
+449
+00:09:08,880 --> 00:09:11,030
+accurate. So, despite expressing those
+intentions throughout several of my
+
+450
+00:09:11,030 --> 00:09:11,040
+intentions throughout several of my
+ 
+
+451
+00:09:11,040 --> 00:09:14,150
+intentions throughout several of my
+annual reviews, I make a clear emphasis
+
+452
+00:09:14,150 --> 00:09:14,160
+annual reviews, I make a clear emphasis
+ 
+
+453
+00:09:14,160 --> 00:09:15,990
+annual reviews, I make a clear emphasis
+on business growth and achievement,
+
+454
+00:09:15,990 --> 00:09:16,000
+on business growth and achievement,
+ 
+
+455
+00:09:16,000 --> 00:09:18,070
+on business growth and achievement,
+often at the expense of personal time
+
+456
+00:09:18,070 --> 00:09:18,080
+often at the expense of personal time
+ 
+
+457
+00:09:18,080 --> 00:09:20,150
+often at the expense of personal time
+and well-being. It does say that later
+
+458
+00:09:20,150 --> 00:09:20,160
+and well-being. It does say that later
+ 
+
+459
+00:09:20,160 --> 00:09:21,829
+and well-being. It does say that later
+reviews show more awareness and
+
+460
+00:09:21,829 --> 00:09:21,839
+reviews show more awareness and
+ 
+
+461
+00:09:21,839 --> 00:09:23,670
+reviews show more awareness and
+intention in this area. Great. Looks
+
+462
+00:09:23,670 --> 00:09:23,680
+intention in this area. Great. Looks
+ 
+
+463
+00:09:23,680 --> 00:09:25,670
+intention in this area. Great. Looks
+like there's a tension between wanting
+
+464
+00:09:25,670 --> 00:09:25,680
+like there's a tension between wanting
+ 
+
+465
+00:09:25,680 --> 00:09:27,590
+like there's a tension between wanting
+to delegate, for example, to people on
+
+466
+00:09:27,590 --> 00:09:27,600
+to delegate, for example, to people on
+ 
+
+467
+00:09:27,600 --> 00:09:30,310
+to delegate, for example, to people on
+my team, but also difficulty letting go
+
+468
+00:09:30,310 --> 00:09:30,320
+my team, but also difficulty letting go
+ 
+
+469
+00:09:30,320 --> 00:09:33,030
+my team, but also difficulty letting go
+of control. In some cases, even refusing
+
+470
+00:09:33,030 --> 00:09:33,040
+of control. In some cases, even refusing
+ 
+
+471
+00:09:33,040 --> 00:09:35,430
+of control. In some cases, even refusing
+help from others. And that tension leads
+
+472
+00:09:35,430 --> 00:09:35,440
+help from others. And that tension leads
+ 
+
+473
+00:09:35,440 --> 00:09:37,269
+help from others. And that tension leads
+to this persistent question which I have
+
+474
+00:09:37,269 --> 00:09:37,279
+to this persistent question which I have
+ 
+
+475
+00:09:37,279 --> 00:09:39,590
+to this persistent question which I have
+to this day, which is how to inspire
+
+476
+00:09:39,590 --> 00:09:39,600
+to this day, which is how to inspire
+ 
+
+477
+00:09:39,600 --> 00:09:41,430
+to this day, which is how to inspire
+greatness in others without me being
+
+478
+00:09:41,430 --> 00:09:41,440
+greatness in others without me being
+ 
+
+479
+00:09:41,440 --> 00:09:44,070
+greatness in others without me being
+directly involved. Looks like I have a
+
+480
+00:09:44,070 --> 00:09:44,080
+directly involved. Looks like I have a
+ 
+
+481
+00:09:44,080 --> 00:09:46,470
+directly involved. Looks like I have a
+tension between uh a desire for
+
+482
+00:09:46,470 --> 00:09:46,480
+tension between uh a desire for
+ 
+
+483
+00:09:46,480 --> 00:09:49,110
+tension between uh a desire for
+financial prudence and keeping spending
+
+484
+00:09:49,110 --> 00:09:49,120
+financial prudence and keeping spending
+ 
+
+485
+00:09:49,120 --> 00:09:52,150
+financial prudence and keeping spending
+in check versus being quite a free
+
+486
+00:09:52,150 --> 00:09:52,160
+in check versus being quite a free
+ 
+
+487
+00:09:52,160 --> 00:09:53,829
+in check versus being quite a free
+spender, which I would say is definitely
+
+488
+00:09:53,829 --> 00:09:53,839
+spender, which I would say is definitely
+ 
+
+489
+00:09:53,839 --> 00:09:56,310
+spender, which I would say is definitely
+the case. It even has the context to
+
+490
+00:09:56,310 --> 00:09:56,320
+the case. It even has the context to
+ 
+
+491
+00:09:56,320 --> 00:09:59,110
+the case. It even has the context to
+know that that free spending was partly
+
+492
+00:09:59,110 --> 00:09:59,120
+know that that free spending was partly
+ 
+
+493
+00:09:59,120 --> 00:10:01,110
+know that that free spending was partly
+a reaction against my father's
+
+494
+00:10:01,110 --> 00:10:01,120
+a reaction against my father's
+ 
+
+495
+00:10:01,120 --> 00:10:03,590
+a reaction against my father's
+frugality, which is pretty deep. There's
+
+496
+00:10:03,590 --> 00:10:03,600
+frugality, which is pretty deep. There's
+ 
+
+497
+00:10:03,600 --> 00:10:06,790
+frugality, which is pretty deep. There's
+a tendency between focus and chasing uh
+
+498
+00:10:06,790 --> 00:10:06,800
+a tendency between focus and chasing uh
+ 
+
+499
+00:10:06,800 --> 00:10:09,670
+a tendency between focus and chasing uh
+shiny objects. There's a tension between
+
+500
+00:10:09,670 --> 00:10:09,680
+shiny objects. There's a tension between
+ 
+
+501
+00:10:09,680 --> 00:10:11,670
+shiny objects. There's a tension between
+wanting sustainable growth but also
+
+502
+00:10:11,670 --> 00:10:11,680
+wanting sustainable growth but also
+ 
+
+503
+00:10:11,680 --> 00:10:14,150
+wanting sustainable growth but also
+experiencing burnout, between being
+
+504
+00:10:14,150 --> 00:10:14,160
+experiencing burnout, between being
+ 
+
+505
+00:10:14,160 --> 00:10:15,670
+experiencing burnout, between being
+present with my family and being
+
+506
+00:10:15,670 --> 00:10:15,680
+present with my family and being
+ 
+
+507
+00:10:15,680 --> 00:10:18,310
+present with my family and being
+distracted by work. So this is again
+
+508
+00:10:18,310 --> 00:10:18,320
+distracted by work. So this is again
+ 
+
+509
+00:10:18,320 --> 00:10:21,750
+distracted by work. So this is again
+just an excellent uh distillation of I
+
+510
+00:10:21,750 --> 00:10:21,760
+just an excellent uh distillation of I
+ 
+
+511
+00:10:21,760 --> 00:10:24,110
+just an excellent uh distillation of I
+would say most if not all of the key
+
+512
+00:10:24,110 --> 00:10:24,120
+would say most if not all of the key
+ 
+
+513
+00:10:24,120 --> 00:10:27,110
+would say most if not all of the key
+tensions that I keep returning to again
+
+514
+00:10:27,110 --> 00:10:27,120
+tensions that I keep returning to again
+ 
+
+515
+00:10:27,120 --> 00:10:29,829
+tensions that I keep returning to again
+both in my work and in my life. Now I'd
+
+516
+00:10:29,829 --> 00:10:29,839
+both in my work and in my life. Now I'd
+ 
+
+517
+00:10:29,839 --> 00:10:31,670
+both in my work and in my life. Now I'd
+like to know about blind spots or
+
+518
+00:10:31,670 --> 00:10:31,680
+like to know about blind spots or
+ 
+
+519
+00:10:31,680 --> 00:10:34,230
+like to know about blind spots or
+limiting beliefs. And what I really am
+
+520
+00:10:34,230 --> 00:10:34,240
+limiting beliefs. And what I really am
+ 
+
+521
+00:10:34,240 --> 00:10:35,829
+limiting beliefs. And what I really am
+going to look at here is if there's
+
+522
+00:10:35,829 --> 00:10:35,839
+going to look at here is if there's
+ 
+
+523
+00:10:35,839 --> 00:10:38,389
+going to look at here is if there's
+anything that I haven't heard of before
+
+524
+00:10:38,389 --> 00:10:38,399
+anything that I haven't heard of before
+ 
+
+525
+00:10:38,399 --> 00:10:40,310
+anything that I haven't heard of before
+or I'm not aware of. Interesting that
+
+526
+00:10:40,310 --> 00:10:40,320
+or I'm not aware of. Interesting that
+ 
+
+527
+00:10:40,320 --> 00:10:42,710
+or I'm not aware of. Interesting that
+it's now drawing not just on the sources
+
+528
+00:10:42,710 --> 00:10:42,720
+it's now drawing not just on the sources
+ 
+
+529
+00:10:42,720 --> 00:10:44,310
+it's now drawing not just on the sources
+that I loaded up, but our own
+
+530
+00:10:44,310 --> 00:10:44,320
+that I loaded up, but our own
+ 
+
+531
+00:10:44,320 --> 00:10:46,630
+that I loaded up, but our own
+conversation history, which is mostly
+
+532
+00:10:46,630 --> 00:10:46,640
+conversation history, which is mostly
+ 
+
+533
+00:10:46,640 --> 00:10:48,630
+conversation history, which is mostly
+things that it has said. So what I
+
+534
+00:10:48,630 --> 00:10:48,640
+things that it has said. So what I
+ 
+
+535
+00:10:48,640 --> 00:10:51,190
+things that it has said. So what I
+assume that means is it can now draw on
+
+536
+00:10:51,190 --> 00:10:51,200
+assume that means is it can now draw on
+ 
+
+537
+00:10:51,200 --> 00:10:53,590
+assume that means is it can now draw on
+its previous responses and my previous
+
+538
+00:10:53,590 --> 00:10:53,600
+its previous responses and my previous
+ 
+
+539
+00:10:53,600 --> 00:10:56,150
+its previous responses and my previous
+questions to come up with sort of second
+
+540
+00:10:56,150 --> 00:10:56,160
+questions to come up with sort of second
+ 
+
+541
+00:10:56,160 --> 00:10:58,069
+questions to come up with sort of second
+order insights. The one thing I'm seeing
+
+542
+00:10:58,069 --> 00:10:58,079
+order insights. The one thing I'm seeing
+ 
+
+543
+00:10:58,079 --> 00:11:01,190
+order insights. The one thing I'm seeing
+here that I hadn't considered is that I
+
+544
+00:11:01,190 --> 00:11:01,200
+here that I hadn't considered is that I
+ 
+
+545
+00:11:01,200 --> 00:11:03,190
+here that I hadn't considered is that I
+tend to avoid disappointment. The
+
+546
+00:11:03,190 --> 00:11:03,200
+tend to avoid disappointment. The
+ 
+
+547
+00:11:03,200 --> 00:11:05,590
+tend to avoid disappointment. The
+feeling, the emotion of disappointment,
+
+548
+00:11:05,590 --> 00:11:05,600
+feeling, the emotion of disappointment,
+ 
+
+549
+00:11:05,600 --> 00:11:08,509
+feeling, the emotion of disappointment,
+which paradoxically can create more
+
+550
+00:11:08,509 --> 00:11:08,519
+which paradoxically can create more
+ 
+
+551
+00:11:08,519 --> 00:11:10,230
+which paradoxically can create more
+disappointment. So, I'm actually going
+
+552
+00:11:10,230 --> 00:11:10,240
+disappointment. So, I'm actually going
+ 
+
+553
+00:11:10,240 --> 00:11:13,670
+disappointment. So, I'm actually going
+to highlight that and then save it as a
+
+554
+00:11:13,670 --> 00:11:13,680
+to highlight that and then save it as a
+ 
+
+555
+00:11:13,680 --> 00:11:15,590
+to highlight that and then save it as a
+note over here on the right because I
+
+556
+00:11:15,590 --> 00:11:15,600
+note over here on the right because I
+ 
+
+557
+00:11:15,600 --> 00:11:17,190
+note over here on the right because I
+want to revisit that a bit later.
+
+558
+00:11:17,190 --> 00:11:17,200
+want to revisit that a bit later.
+ 
+
+559
+00:11:17,200 --> 00:11:19,350
+want to revisit that a bit later.
+Something I'm realizing is it's getting
+
+560
+00:11:19,350 --> 00:11:19,360
+Something I'm realizing is it's getting
+ 
+
+561
+00:11:19,360 --> 00:11:22,069
+Something I'm realizing is it's getting
+a little bit repetitive. It's actually
+
+562
+00:11:22,069 --> 00:11:22,079
+a little bit repetitive. It's actually
+ 
+
+563
+00:11:22,079 --> 00:11:24,710
+a little bit repetitive. It's actually
+just restating some of the same findings
+
+564
+00:11:24,710 --> 00:11:24,720
+just restating some of the same findings
+ 
+
+565
+00:11:24,720 --> 00:11:27,269
+just restating some of the same findings
+and observations just in different ways,
+
+566
+00:11:27,269 --> 00:11:27,279
+and observations just in different ways,
+ 
+
+567
+00:11:27,279 --> 00:11:29,190
+and observations just in different ways,
+using different language. Let's see what
+
+568
+00:11:29,190 --> 00:11:29,200
+using different language. Let's see what
+ 
+
+569
+00:11:29,200 --> 00:11:31,750
+using different language. Let's see what
+else here could potentially be valuable.
+
+570
+00:11:31,750 --> 00:11:31,760
+else here could potentially be valuable.
+ 
+
+571
+00:11:31,760 --> 00:11:33,590
+else here could potentially be valuable.
+Here's a good one. Based on these notes,
+
+572
+00:11:33,590 --> 00:11:33,600
+Here's a good one. Based on these notes,
+ 
+
+573
+00:11:33,600 --> 00:11:36,310
+Here's a good one. Based on these notes,
+when have I been the happiest? Uh, this
+
+574
+00:11:36,310 --> 00:11:36,320
+when have I been the happiest? Uh, this
+ 
+
+575
+00:11:36,320 --> 00:11:38,069
+when have I been the happiest? Uh, this
+is actually one I think I got from a
+
+576
+00:11:38,069 --> 00:11:38,079
+is actually one I think I got from a
+ 
+
+577
+00:11:38,079 --> 00:11:39,949
+is actually one I think I got from a
+friend, so it has a little bit more
+
+578
+00:11:39,949 --> 00:11:39,959
+friend, so it has a little bit more
+ 
+
+579
+00:11:39,959 --> 00:11:41,990
+friend, so it has a little bit more
+instructions. It says, "Please be
+
+580
+00:11:41,990 --> 00:11:42,000
+instructions. It says, "Please be
+ 
+
+581
+00:11:42,000 --> 00:11:44,949
+instructions. It says, "Please be
+specific about moments and situations.
+
+582
+00:11:44,949 --> 00:11:44,959
+specific about moments and situations.
+ 
+
+583
+00:11:44,959 --> 00:11:47,509
+specific about moments and situations.
+Identify what specifically caused the
+
+584
+00:11:47,509 --> 00:11:47,519
+Identify what specifically caused the
+ 
+
+585
+00:11:47,519 --> 00:11:49,670
+Identify what specifically caused the
+happiness. Be truthful and don't make
+
+586
+00:11:49,670 --> 00:11:49,680
+happiness. Be truthful and don't make
+ 
+
+587
+00:11:49,680 --> 00:11:51,990
+happiness. Be truthful and don't make
+anything up. And if you find a specific
+
+588
+00:11:51,990 --> 00:11:52,000
+anything up. And if you find a specific
+ 
+
+589
+00:11:52,000 --> 00:11:54,389
+anything up. And if you find a specific
+moment of happiness, don't summarize it.
+
+590
+00:11:54,389 --> 00:11:54,399
+moment of happiness, don't summarize it.
+ 
+
+591
+00:11:54,399 --> 00:11:56,230
+moment of happiness, don't summarize it.
+Find moments that are surprising. So
+
+592
+00:11:56,230 --> 00:11:56,240
+Find moments that are surprising. So
+ 
+
+593
+00:11:56,240 --> 00:11:59,030
+Find moments that are surprising. So
+these are all great tips that you can
+
+594
+00:11:59,030 --> 00:11:59,040
+these are all great tips that you can
+ 
+
+595
+00:11:59,040 --> 00:12:01,670
+these are all great tips that you can
+use in your own conversations with AI.
+
+596
+00:12:01,670 --> 00:12:01,680
+use in your own conversations with AI.
+ 
+
+597
+00:12:01,680 --> 00:12:04,470
+use in your own conversations with AI.
+So it's citing a meditation retreat that
+
+598
+00:12:04,470 --> 00:12:04,480
+So it's citing a meditation retreat that
+ 
+
+599
+00:12:04,480 --> 00:12:07,190
+So it's citing a meditation retreat that
+I went on and specifically day nine. So
+
+600
+00:12:07,190 --> 00:12:07,200
+I went on and specifically day nine. So
+ 
+
+601
+00:12:07,200 --> 00:12:09,670
+I went on and specifically day nine. So
+I experienced waves of pleasure starting
+
+602
+00:12:09,670 --> 00:12:09,680
+I experienced waves of pleasure starting
+ 
+
+603
+00:12:09,680 --> 00:12:11,750
+I experienced waves of pleasure starting
+throughout my body completely on their
+
+604
+00:12:11,750 --> 00:12:11,760
+throughout my body completely on their
+ 
+
+605
+00:12:11,760 --> 00:12:15,350
+throughout my body completely on their
+own. That's fascinating. So what this is
+
+606
+00:12:15,350 --> 00:12:15,360
+own. That's fascinating. So what this is
+ 
+
+607
+00:12:15,360 --> 00:12:17,430
+own. That's fascinating. So what this is
+kind of reminding me of is how much
+
+608
+00:12:17,430 --> 00:12:17,440
+kind of reminding me of is how much
+ 
+
+609
+00:12:17,440 --> 00:12:19,829
+kind of reminding me of is how much
+meditation is good for me. I've kind of
+
+610
+00:12:19,829 --> 00:12:19,839
+meditation is good for me. I've kind of
+ 
+
+611
+00:12:19,839 --> 00:12:21,910
+meditation is good for me. I've kind of
+let meditation as a habit fall by the
+
+612
+00:12:21,910 --> 00:12:21,920
+let meditation as a habit fall by the
+ 
+
+613
+00:12:21,920 --> 00:12:23,670
+let meditation as a habit fall by the
+wayside in recent years, but based on
+
+614
+00:12:23,670 --> 00:12:23,680
+wayside in recent years, but based on
+ 
+
+615
+00:12:23,680 --> 00:12:25,110
+wayside in recent years, but based on
+this, I think I actually want to bring
+
+616
+00:12:25,110 --> 00:12:25,120
+this, I think I actually want to bring
+ 
+
+617
+00:12:25,120 --> 00:12:27,750
+this, I think I actually want to bring
+that back as part of my say morning or
+
+618
+00:12:27,750 --> 00:12:27,760
+that back as part of my say morning or
+ 
+
+619
+00:12:27,760 --> 00:12:29,590
+that back as part of my say morning or
+evening routine. I'm also seeing some
+
+620
+00:12:29,590 --> 00:12:29,600
+evening routine. I'm also seeing some
+ 
+
+621
+00:12:29,600 --> 00:12:32,710
+evening routine. I'm also seeing some
+stuff about past uh experiences with
+
+622
+00:12:32,710 --> 00:12:32,720
+stuff about past uh experiences with
+ 
+
+623
+00:12:32,720 --> 00:12:35,269
+stuff about past uh experiences with
+psychedelics with iawasa which is kind
+
+624
+00:12:35,269 --> 00:12:35,279
+psychedelics with iawasa which is kind
+ 
+
+625
+00:12:35,279 --> 00:12:36,710
+psychedelics with iawasa which is kind
+of reminding me I think I would like to
+
+626
+00:12:36,710 --> 00:12:36,720
+of reminding me I think I would like to
+ 
+
+627
+00:12:36,720 --> 00:12:38,790
+of reminding me I think I would like to
+revisit some of that maybe do some
+
+628
+00:12:38,790 --> 00:12:38,800
+revisit some of that maybe do some
+ 
+
+629
+00:12:38,800 --> 00:12:42,069
+revisit some of that maybe do some
+psilocybin or MDMA assisted therapy
+
+630
+00:12:42,069 --> 00:12:42,079
+psilocybin or MDMA assisted therapy
+ 
+
+631
+00:12:42,079 --> 00:12:43,910
+psilocybin or MDMA assisted therapy
+which I know is becoming more and more
+
+632
+00:12:43,910 --> 00:12:43,920
+which I know is becoming more and more
+ 
+
+633
+00:12:43,920 --> 00:12:45,750
+which I know is becoming more and more
+popular. It's also reminding me of some
+
+634
+00:12:45,750 --> 00:12:45,760
+popular. It's also reminding me of some
+ 
+
+635
+00:12:45,760 --> 00:12:48,310
+popular. It's also reminding me of some
+really beautiful moments with my uh kids
+
+636
+00:12:48,310 --> 00:12:48,320
+really beautiful moments with my uh kids
+ 
+
+637
+00:12:48,320 --> 00:12:50,870
+really beautiful moments with my uh kids
+when they were babies, as well as how
+
+638
+00:12:50,870 --> 00:12:50,880
+when they were babies, as well as how
+ 
+
+639
+00:12:50,880 --> 00:12:53,750
+when they were babies, as well as how
+happy I am when I do many consecutive
+
+640
+00:12:53,750 --> 00:12:53,760
+happy I am when I do many consecutive
+ 
+
+641
+00:12:53,760 --> 00:12:55,829
+happy I am when I do many consecutive
+hours of deep reading and writing. It's
+
+642
+00:12:55,829 --> 00:12:55,839
+hours of deep reading and writing. It's
+ 
+
+643
+00:12:55,839 --> 00:12:57,750
+hours of deep reading and writing. It's
+reminding me how much I love and how
+
+644
+00:12:57,750 --> 00:12:57,760
+reminding me how much I love and how
+ 
+
+645
+00:12:57,760 --> 00:13:00,069
+reminding me how much I love and how
+much I get from deeply immersive and
+
+646
+00:13:00,069 --> 00:13:00,079
+much I get from deeply immersive and
+ 
+
+647
+00:13:00,079 --> 00:13:01,670
+much I get from deeply immersive and
+intentional spaces with fellow
+
+648
+00:13:01,670 --> 00:13:01,680
+intentional spaces with fellow
+ 
+
+649
+00:13:01,680 --> 00:13:03,910
+intentional spaces with fellow
+entrepreneurs and creators. So, mostly
+
+650
+00:13:03,910 --> 00:13:03,920
+entrepreneurs and creators. So, mostly
+ 
+
+651
+00:13:03,920 --> 00:13:06,150
+entrepreneurs and creators. So, mostly
+what I'm getting from this is just
+
+652
+00:13:06,150 --> 00:13:06,160
+what I'm getting from this is just
+ 
+
+653
+00:13:06,160 --> 00:13:07,910
+what I'm getting from this is just
+reminders.
+
+654
+00:13:07,910 --> 00:13:07,920
+reminders.
+ 
+
+655
+00:13:07,920 --> 00:13:10,710
+reminders.
+You know, I've had a lot of moments in
+
+656
+00:13:10,710 --> 00:13:10,720
+You know, I've had a lot of moments in
+ 
+
+657
+00:13:10,720 --> 00:13:13,030
+You know, I've had a lot of moments in
+the past that I was deeply satisfied and
+
+658
+00:13:13,030 --> 00:13:13,040
+the past that I was deeply satisfied and
+ 
+
+659
+00:13:13,040 --> 00:13:15,829
+the past that I was deeply satisfied and
+deeply happy. So maybe it's as simple as
+
+660
+00:13:15,829 --> 00:13:15,839
+deeply happy. So maybe it's as simple as
+ 
+
+661
+00:13:15,839 --> 00:13:18,310
+deeply happy. So maybe it's as simple as
+just recreating and revisiting some of
+
+662
+00:13:18,310 --> 00:13:18,320
+just recreating and revisiting some of
+ 
+
+663
+00:13:18,320 --> 00:13:20,310
+just recreating and revisiting some of
+those same kinds of situations. So
+
+664
+00:13:20,310 --> 00:13:20,320
+those same kinds of situations. So
+ 
+
+665
+00:13:20,320 --> 00:13:22,150
+those same kinds of situations. So
+here's a really interesting one. What is
+
+666
+00:13:22,150 --> 00:13:22,160
+here's a really interesting one. What is
+ 
+
+667
+00:13:22,160 --> 00:13:24,470
+here's a really interesting one. What is
+obvious to everyone around me, but
+
+668
+00:13:24,470 --> 00:13:24,480
+obvious to everyone around me, but
+ 
+
+669
+00:13:24,480 --> 00:13:26,710
+obvious to everyone around me, but
+doesn't appear obvious to me? So it
+
+670
+00:13:26,710 --> 00:13:26,720
+doesn't appear obvious to me? So it
+ 
+
+671
+00:13:26,720 --> 00:13:29,030
+doesn't appear obvious to me? So it
+suggests that I may be underestimating
+
+672
+00:13:29,030 --> 00:13:29,040
+suggests that I may be underestimating
+ 
+
+673
+00:13:29,040 --> 00:13:30,949
+suggests that I may be underestimating
+the team's capabilities. That's one that
+
+674
+00:13:30,949 --> 00:13:30,959
+the team's capabilities. That's one that
+ 
+
+675
+00:13:30,959 --> 00:13:33,190
+the team's capabilities. That's one that
+I want to highlight and save as a note
+
+676
+00:13:33,190 --> 00:13:33,200
+I want to highlight and save as a note
+ 
+
+677
+00:13:33,200 --> 00:13:35,509
+I want to highlight and save as a note
+to revisit. It even says the possibility
+
+678
+00:13:35,509 --> 00:13:35,519
+to revisit. It even says the possibility
+ 
+
+679
+00:13:35,519 --> 00:13:37,269
+to revisit. It even says the possibility
+you're already making a significant
+
+680
+00:13:37,269 --> 00:13:37,279
+you're already making a significant
+ 
+
+681
+00:13:37,279 --> 00:13:39,150
+you're already making a significant
+positive impact. So maybe I should just
+
+682
+00:13:39,150 --> 00:13:39,160
+positive impact. So maybe I should just
+ 
+
+683
+00:13:39,160 --> 00:13:41,910
+positive impact. So maybe I should just
+relax. I mean that's definitely the
+
+684
+00:13:41,910 --> 00:13:41,920
+relax. I mean that's definitely the
+ 
+
+685
+00:13:41,920 --> 00:13:44,470
+relax. I mean that's definitely the
+case. Oh, and interesting. It notes that
+
+686
+00:13:44,470 --> 00:13:44,480
+case. Oh, and interesting. It notes that
+ 
+
+687
+00:13:44,480 --> 00:13:46,870
+case. Oh, and interesting. It notes that
+my kind of attempt to reinvent myself
+
+688
+00:13:46,870 --> 00:13:46,880
+my kind of attempt to reinvent myself
+ 
+
+689
+00:13:46,880 --> 00:13:48,949
+my kind of attempt to reinvent myself
+and reinvent my my career and my
+
+690
+00:13:48,949 --> 00:13:48,959
+and reinvent my my career and my
+ 
+
+691
+00:13:48,959 --> 00:13:51,590
+and reinvent my my career and my
+business that others around me might not
+
+692
+00:13:51,590 --> 00:13:51,600
+business that others around me might not
+ 
+
+693
+00:13:51,600 --> 00:13:53,750
+business that others around me might not
+clearly see the shift. I had never
+
+694
+00:13:53,750 --> 00:13:53,760
+clearly see the shift. I had never
+ 
+
+695
+00:13:53,760 --> 00:13:55,910
+clearly see the shift. I had never
+considered the impact on the people
+
+696
+00:13:55,910 --> 00:13:55,920
+considered the impact on the people
+ 
+
+697
+00:13:55,920 --> 00:13:58,389
+considered the impact on the people
+around me of this more or less constant
+
+698
+00:13:58,389 --> 00:13:58,399
+around me of this more or less constant
+ 
+
+699
+00:13:58,399 --> 00:14:00,389
+around me of this more or less constant
+need to reinvent what I'm doing. So I
+
+700
+00:14:00,389 --> 00:14:00,399
+need to reinvent what I'm doing. So I
+ 
+
+701
+00:14:00,399 --> 00:14:02,310
+need to reinvent what I'm doing. So I
+think I'll save that one as well. So
+
+702
+00:14:02,310 --> 00:14:02,320
+think I'll save that one as well. So
+ 
+
+703
+00:14:02,320 --> 00:14:04,710
+think I'll save that one as well. So
+what's so interesting about this is at
+
+704
+00:14:04,710 --> 00:14:04,720
+what's so interesting about this is at
+ 
+
+705
+00:14:04,720 --> 00:14:08,310
+what's so interesting about this is at
+this stage this is so actionable. I can
+
+706
+00:14:08,310 --> 00:14:08,320
+this stage this is so actionable. I can
+ 
+
+707
+00:14:08,320 --> 00:14:10,389
+this stage this is so actionable. I can
+go online and I could do a search for
+
+708
+00:14:10,389 --> 00:14:10,399
+go online and I could do a search for
+ 
+
+709
+00:14:10,399 --> 00:14:13,430
+go online and I could do a search for
+courses or programs or coaches who could
+
+710
+00:14:13,430 --> 00:14:13,440
+courses or programs or coaches who could
+ 
+
+711
+00:14:13,440 --> 00:14:15,670
+courses or programs or coaches who could
+help me develop these very specific
+
+712
+00:14:15,670 --> 00:14:15,680
+help me develop these very specific
+ 
+
+713
+00:14:15,680 --> 00:14:20,030
+help me develop these very specific
+skills. All right. So this last batch of
+
+714
+00:14:20,030 --> 00:14:20,040
+skills. All right. So this last batch of
+ 
+
+715
+00:14:20,040 --> 00:14:23,670
+skills. All right. So this last batch of
+questions is kind of pivoting from the
+
+716
+00:14:23,670 --> 00:14:23,680
+questions is kind of pivoting from the
+ 
+
+717
+00:14:23,680 --> 00:14:25,590
+questions is kind of pivoting from the
+past and the present which is mostly
+
+718
+00:14:25,590 --> 00:14:25,600
+past and the present which is mostly
+ 
+
+719
+00:14:25,600 --> 00:14:27,829
+past and the present which is mostly
+what we've been talking about. But where
+
+720
+00:14:27,829 --> 00:14:27,839
+what we've been talking about. But where
+ 
+
+721
+00:14:27,839 --> 00:14:30,389
+what we've been talking about. But where
+coaching is the most powerful where the
+
+722
+00:14:30,389 --> 00:14:30,399
+coaching is the most powerful where the
+ 
+
+723
+00:14:30,399 --> 00:14:32,710
+coaching is the most powerful where the
+value is really the clearest is when it
+
+724
+00:14:32,710 --> 00:14:32,720
+value is really the clearest is when it
+ 
+
+725
+00:14:32,720 --> 00:14:34,550
+value is really the clearest is when it
+comes to the future, future goals,
+
+726
+00:14:34,550 --> 00:14:34,560
+comes to the future, future goals,
+ 
+
+727
+00:14:34,560 --> 00:14:36,870
+comes to the future, future goals,
+future projects, future decisions,
+
+728
+00:14:36,870 --> 00:14:36,880
+future projects, future decisions,
+ 
+
+729
+00:14:36,880 --> 00:14:39,110
+future projects, future decisions,
+future milestones. So let's dive into
+
+730
+00:14:39,110 --> 00:14:39,120
+future milestones. So let's dive into
+ 
+
+731
+00:14:39,120 --> 00:14:41,189
+future milestones. So let's dive into
+some of these questions. Oh, this is one
+
+732
+00:14:41,189 --> 00:14:41,199
+some of these questions. Oh, this is one
+ 
+
+733
+00:14:41,199 --> 00:14:43,750
+some of these questions. Oh, this is one
+I think about a lot. If I were to regret
+
+734
+00:14:43,750 --> 00:14:43,760
+I think about a lot. If I were to regret
+ 
+
+735
+00:14:43,760 --> 00:14:45,750
+I think about a lot. If I were to regret
+something at the end of my life, what
+
+736
+00:14:45,750 --> 00:14:45,760
+something at the end of my life, what
+ 
+
+737
+00:14:45,760 --> 00:14:47,990
+something at the end of my life, what
+might that be? So the headline here is
+
+738
+00:14:47,990 --> 00:14:48,000
+might that be? So the headline here is
+ 
+
+739
+00:14:48,000 --> 00:14:50,030
+might that be? So the headline here is
+not fully prioritizing meaningful
+
+740
+00:14:50,030 --> 00:14:50,040
+not fully prioritizing meaningful
+ 
+
+741
+00:14:50,040 --> 00:14:53,030
+not fully prioritizing meaningful
+relationships and a balanced life and
+
+742
+00:14:53,030 --> 00:14:53,040
+relationships and a balanced life and
+ 
+
+743
+00:14:53,040 --> 00:14:55,350
+relationships and a balanced life and
+instead overemphasizing work and
+
+744
+00:14:55,350 --> 00:14:55,360
+instead overemphasizing work and
+ 
+
+745
+00:14:55,360 --> 00:14:57,910
+instead overemphasizing work and
+external achievements at the expense of
+
+746
+00:14:57,910 --> 00:14:57,920
+external achievements at the expense of
+ 
+
+747
+00:14:57,920 --> 00:14:59,870
+external achievements at the expense of
+deeper connections and personal
+
+748
+00:14:59,870 --> 00:14:59,880
+deeper connections and personal
+ 
+
+749
+00:14:59,880 --> 00:15:03,310
+deeper connections and personal
+well-being. Wow.
+
+750
+00:15:03,310 --> 00:15:03,320
+well-being. Wow.
+ 
+
+751
+00:15:03,320 --> 00:15:07,110
+well-being. Wow.
+So that actually really like hits me. I
+
+752
+00:15:07,110 --> 00:15:07,120
+So that actually really like hits me. I
+ 
+
+753
+00:15:07,120 --> 00:15:11,750
+So that actually really like hits me. I
+I feel that at a deep level because this
+
+754
+00:15:11,750 --> 00:15:11,760
+I feel that at a deep level because this
+ 
+
+755
+00:15:11,760 --> 00:15:15,030
+I feel that at a deep level because this
+is kind of like the big fear that I that
+
+756
+00:15:15,030 --> 00:15:15,040
+is kind of like the big fear that I that
+ 
+
+757
+00:15:15,040 --> 00:15:17,110
+is kind of like the big fear that I that
+I'm afraid I'll end up with on my
+
+758
+00:15:17,110 --> 00:15:17,120
+I'm afraid I'll end up with on my
+ 
+
+759
+00:15:17,120 --> 00:15:19,910
+I'm afraid I'll end up with on my
+deathbed that I made that trade-off
+
+760
+00:15:19,910 --> 00:15:19,920
+deathbed that I made that trade-off
+ 
+
+761
+00:15:19,920 --> 00:15:21,710
+deathbed that I made that trade-off
+between meaningful relationships and
+
+762
+00:15:21,710 --> 00:15:21,720
+between meaningful relationships and
+ 
+
+763
+00:15:21,720 --> 00:15:24,069
+between meaningful relationships and
+balance and work and external
+
+764
+00:15:24,069 --> 00:15:24,079
+balance and work and external
+ 
+
+765
+00:15:24,079 --> 00:15:25,750
+balance and work and external
+achievements on the other hand
+
+766
+00:15:25,750 --> 00:15:25,760
+achievements on the other hand
+ 
+
+767
+00:15:25,760 --> 00:15:28,629
+achievements on the other hand
+incorrectly inappropriately. This is
+
+768
+00:15:28,629 --> 00:15:28,639
+incorrectly inappropriately. This is
+ 
+
+769
+00:15:28,639 --> 00:15:31,670
+incorrectly inappropriately. This is
+kind of the most succinct
+
+770
+00:15:31,670 --> 00:15:31,680
+kind of the most succinct
+ 
+
+771
+00:15:31,680 --> 00:15:34,629
+kind of the most succinct
+uh summary or distillation of my I would
+
+772
+00:15:34,629 --> 00:15:34,639
+uh summary or distillation of my I would
+ 
+
+773
+00:15:34,639 --> 00:15:36,550
+uh summary or distillation of my I would
+say my core fear in life that I think
+
+774
+00:15:36,550 --> 00:15:36,560
+say my core fear in life that I think
+ 
+
+775
+00:15:36,560 --> 00:15:38,710
+say my core fear in life that I think
+I've ever seen. But wow, I kind of want
+
+776
+00:15:38,710 --> 00:15:38,720
+I've ever seen. But wow, I kind of want
+ 
+
+777
+00:15:38,720 --> 00:15:41,430
+I've ever seen. But wow, I kind of want
+to save this sentence right here in bold
+
+778
+00:15:41,430 --> 00:15:41,440
+to save this sentence right here in bold
+ 
+
+779
+00:15:41,440 --> 00:15:43,990
+to save this sentence right here in bold
+for really some deep reflection and
+
+780
+00:15:43,990 --> 00:15:44,000
+for really some deep reflection and
+ 
+
+781
+00:15:44,000 --> 00:15:46,790
+for really some deep reflection and
+processing over what I want to change at
+
+782
+00:15:46,790 --> 00:15:46,800
+processing over what I want to change at
+ 
+
+783
+00:15:46,800 --> 00:15:49,509
+processing over what I want to change at
+this stage, you know, at the midpoint of
+
+784
+00:15:49,509 --> 00:15:49,519
+this stage, you know, at the midpoint of
+ 
+
+785
+00:15:49,519 --> 00:15:51,509
+this stage, you know, at the midpoint of
+my life so that I don't end up on my
+
+786
+00:15:51,509 --> 00:15:51,519
+my life so that I don't end up on my
+ 
+
+787
+00:15:51,519 --> 00:15:54,069
+my life so that I don't end up on my
+deathbed feeling this way. Next, I'm
+
+788
+00:15:54,069 --> 00:15:54,079
+deathbed feeling this way. Next, I'm
+ 
+
+789
+00:15:54,079 --> 00:15:56,870
+deathbed feeling this way. Next, I'm
+going to ask based on all my sources,
+
+790
+00:15:56,870 --> 00:15:56,880
+going to ask based on all my sources,
+ 
+
+791
+00:15:56,880 --> 00:15:58,389
+going to ask based on all my sources,
+all the questions I've asked in this
+
+792
+00:15:58,389 --> 00:15:58,399
+all the questions I've asked in this
+ 
+
+793
+00:15:58,399 --> 00:16:00,870
+all the questions I've asked in this
+chat and your responses, what is your
+
+794
+00:16:00,870 --> 00:16:00,880
+chat and your responses, what is your
+ 
+
+795
+00:16:00,880 --> 00:16:03,509
+chat and your responses, what is your
+best advice for how I should approach
+
+796
+00:16:03,509 --> 00:16:03,519
+best advice for how I should approach
+ 
+
+797
+00:16:03,519 --> 00:16:05,509
+best advice for how I should approach
+goals and challenges in both my personal
+
+798
+00:16:05,509 --> 00:16:05,519
+goals and challenges in both my personal
+ 
+
+799
+00:16:05,519 --> 00:16:07,110
+goals and challenges in both my personal
+and professional life? So, this is kind
+
+800
+00:16:07,110 --> 00:16:07,120
+and professional life? So, this is kind
+ 
+
+801
+00:16:07,120 --> 00:16:10,710
+and professional life? So, this is kind
+of like a sweeping request for tell me
+
+802
+00:16:10,710 --> 00:16:10,720
+of like a sweeping request for tell me
+ 
+
+803
+00:16:10,720 --> 00:16:12,949
+of like a sweeping request for tell me
+what to do. Give me your best advice
+
+804
+00:16:12,949 --> 00:16:12,959
+what to do. Give me your best advice
+ 
+
+805
+00:16:12,959 --> 00:16:14,949
+what to do. Give me your best advice
+based on everything I've talked about
+
+806
+00:16:14,949 --> 00:16:14,959
+based on everything I've talked about
+ 
+
+807
+00:16:14,959 --> 00:16:16,310
+based on everything I've talked about
+and everything I've given you.
+
+808
+00:16:16,310 --> 00:16:16,320
+and everything I've given you.
+ 
+
+809
+00:16:16,320 --> 00:16:18,069
+and everything I've given you.
+Interesting. Prioritize self-nowledge
+
+810
+00:16:18,069 --> 00:16:18,079
+Interesting. Prioritize self-nowledge
+ 
+
+811
+00:16:18,079 --> 00:16:20,870
+Interesting. Prioritize self-nowledge
+and authenticity. Really asking myself,
+
+812
+00:16:20,870 --> 00:16:20,880
+and authenticity. Really asking myself,
+ 
+
+813
+00:16:20,880 --> 00:16:22,870
+and authenticity. Really asking myself,
+what do I truly want? question the
+
+814
+00:16:22,870 --> 00:16:22,880
+what do I truly want? question the
+ 
+
+815
+00:16:22,880 --> 00:16:24,949
+what do I truly want? question the
+narratives and stories I tell myself.
+
+816
+00:16:24,949 --> 00:16:24,959
+narratives and stories I tell myself.
+ 
+
+817
+00:16:24,959 --> 00:16:26,749
+narratives and stories I tell myself.
+Embrace emotional intelligence and
+
+818
+00:16:26,749 --> 00:16:26,759
+Embrace emotional intelligence and
+ 
+
+819
+00:16:26,759 --> 00:16:29,350
+Embrace emotional intelligence and
+integration. Moving towards areas where
+
+820
+00:16:29,350 --> 00:16:29,360
+integration. Moving towards areas where
+ 
+
+821
+00:16:29,360 --> 00:16:31,350
+integration. Moving towards areas where
+you feel shame with curiosity and
+
+822
+00:16:31,350 --> 00:16:31,360
+you feel shame with curiosity and
+ 
+
+823
+00:16:31,360 --> 00:16:33,030
+you feel shame with curiosity and
+openness. I think that's advice I've
+
+824
+00:16:33,030 --> 00:16:33,040
+openness. I think that's advice I've
+ 
+
+825
+00:16:33,040 --> 00:16:34,949
+openness. I think that's advice I've
+actually given to myself at some point
+
+826
+00:16:34,949 --> 00:16:34,959
+actually given to myself at some point
+ 
+
+827
+00:16:34,959 --> 00:16:36,790
+actually given to myself at some point
+in my writing, but seeing it reflected
+
+828
+00:16:36,790 --> 00:16:36,800
+in my writing, but seeing it reflected
+ 
+
+829
+00:16:36,800 --> 00:16:38,870
+in my writing, but seeing it reflected
+back is actually helpful. Strive for
+
+830
+00:16:38,870 --> 00:16:38,880
+back is actually helpful. Strive for
+ 
+
+831
+00:16:38,880 --> 00:16:40,749
+back is actually helpful. Strive for
+integration rather than
+
+832
+00:16:40,749 --> 00:16:40,759
+integration rather than
+ 
+
+833
+00:16:40,759 --> 00:16:42,389
+integration rather than
+compartmentalization. So, I think I'll
+
+834
+00:16:42,389 --> 00:16:42,399
+compartmentalization. So, I think I'll
+ 
+
+835
+00:16:42,399 --> 00:16:44,069
+compartmentalization. So, I think I'll
+save that one because I want to ask more
+
+836
+00:16:44,069 --> 00:16:44,079
+save that one because I want to ask more
+ 
+
+837
+00:16:44,079 --> 00:16:46,150
+save that one because I want to ask more
+about it. Value relationships and
+
+838
+00:16:46,150 --> 00:16:46,160
+about it. Value relationships and
+ 
+
+839
+00:16:46,160 --> 00:16:48,069
+about it. Value relationships and
+community. Adopt a growth oriented
+
+840
+00:16:48,069 --> 00:16:48,079
+community. Adopt a growth oriented
+ 
+
+841
+00:16:48,079 --> 00:16:50,150
+community. Adopt a growth oriented
+mindset. Embrace vulnerability and
+
+842
+00:16:50,150 --> 00:16:50,160
+mindset. Embrace vulnerability and
+ 
+
+843
+00:16:50,160 --> 00:16:52,389
+mindset. Embrace vulnerability and
+imperfection. define enough and
+
+844
+00:16:52,389 --> 00:16:52,399
+imperfection. define enough and
+ 
+
+845
+00:16:52,399 --> 00:16:54,550
+imperfection. define enough and
+prioritize balance. So, what strikes me
+
+846
+00:16:54,550 --> 00:16:54,560
+prioritize balance. So, what strikes me
+ 
+
+847
+00:16:54,560 --> 00:16:56,069
+prioritize balance. So, what strikes me
+with these is I think you could give
+
+848
+00:16:56,069 --> 00:16:56,079
+with these is I think you could give
+ 
+
+849
+00:16:56,079 --> 00:16:58,389
+with these is I think you could give
+this advice to almost anyone. It's a
+
+850
+00:16:58,389 --> 00:16:58,399
+this advice to almost anyone. It's a
+ 
+
+851
+00:16:58,399 --> 00:17:00,470
+this advice to almost anyone. It's a
+little bit maybe generic in that sense,
+
+852
+00:17:00,470 --> 00:17:00,480
+little bit maybe generic in that sense,
+ 
+
+853
+00:17:00,480 --> 00:17:02,470
+little bit maybe generic in that sense,
+but that doesn't mean it's not true and
+
+854
+00:17:02,470 --> 00:17:02,480
+but that doesn't mean it's not true and
+ 
+
+855
+00:17:02,480 --> 00:17:04,069
+but that doesn't mean it's not true and
+doesn't mean it's not helpful. I think
+
+856
+00:17:04,069 --> 00:17:04,079
+doesn't mean it's not helpful. I think
+ 
+
+857
+00:17:04,079 --> 00:17:07,189
+doesn't mean it's not helpful. I think
+what I would ask of a human coach is to
+
+858
+00:17:07,189 --> 00:17:07,199
+what I would ask of a human coach is to
+ 
+
+859
+00:17:07,199 --> 00:17:09,990
+what I would ask of a human coach is to
+start to go deeper into some of these
+
+860
+00:17:09,990 --> 00:17:10,000
+start to go deeper into some of these
+ 
+
+861
+00:17:10,000 --> 00:17:12,390
+start to go deeper into some of these
+and really apply them to like my
+
+862
+00:17:12,390 --> 00:17:12,400
+and really apply them to like my
+ 
+
+863
+00:17:12,400 --> 00:17:14,870
+and really apply them to like my
+specific circumstances right now. How
+
+864
+00:17:14,870 --> 00:17:14,880
+specific circumstances right now. How
+ 
+
+865
+00:17:14,880 --> 00:17:16,789
+specific circumstances right now. How
+I'm spending my days, the projects I'm
+
+866
+00:17:16,789 --> 00:17:16,799
+I'm spending my days, the projects I'm
+ 
+
+867
+00:17:16,799 --> 00:17:19,510
+I'm spending my days, the projects I'm
+working on, my my just day-to-day
+
+868
+00:17:19,510 --> 00:17:19,520
+working on, my my just day-to-day
+ 
+
+869
+00:17:19,520 --> 00:17:22,150
+working on, my my just day-to-day
+circumstances. And the final question is
+
+870
+00:17:22,150 --> 00:17:22,160
+circumstances. And the final question is
+ 
+
+871
+00:17:22,160 --> 00:17:23,669
+circumstances. And the final question is
+I want to know if there's any question I
+
+872
+00:17:23,669 --> 00:17:23,679
+I want to know if there's any question I
+ 
+
+873
+00:17:23,679 --> 00:17:25,510
+I want to know if there's any question I
+should have asked. What question did I
+
+874
+00:17:25,510 --> 00:17:25,520
+should have asked. What question did I
+ 
+
+875
+00:17:25,520 --> 00:17:28,150
+should have asked. What question did I
+not ask in our conversation that might
+
+876
+00:17:28,150 --> 00:17:28,160
+not ask in our conversation that might
+ 
+
+877
+00:17:28,160 --> 00:17:30,630
+not ask in our conversation that might
+yield a novel insight that hasn't come
+
+878
+00:17:30,630 --> 00:17:30,640
+yield a novel insight that hasn't come
+ 
+
+879
+00:17:30,640 --> 00:17:33,029
+yield a novel insight that hasn't come
+up yet? So I'm specifically asking it
+
+880
+00:17:33,029 --> 00:17:33,039
+up yet? So I'm specifically asking it
+ 
+
+881
+00:17:33,039 --> 00:17:34,950
+up yet? So I'm specifically asking it
+for something that hasn't been addressed
+
+882
+00:17:34,950 --> 00:17:34,960
+for something that hasn't been addressed
+ 
+
+883
+00:17:34,960 --> 00:17:37,270
+for something that hasn't been addressed
+previously. Interesting. So I've
+
+884
+00:17:37,270 --> 00:17:37,280
+previously. Interesting. So I've
+ 
+
+885
+00:17:37,280 --> 00:17:39,270
+previously. Interesting. So I've
+expressed a difference in kind of
+
+886
+00:17:39,270 --> 00:17:39,280
+expressed a difference in kind of
+ 
+
+887
+00:17:39,280 --> 00:17:42,070
+expressed a difference in kind of
+somatic healing and somatic exploration.
+
+888
+00:17:42,070 --> 00:17:42,080
+somatic healing and somatic exploration.
+ 
+
+889
+00:17:42,080 --> 00:17:43,909
+somatic healing and somatic exploration.
+So that is a current interest and it's
+
+890
+00:17:43,909 --> 00:17:43,919
+So that is a current interest and it's
+ 
+
+891
+00:17:43,919 --> 00:17:47,230
+So that is a current interest and it's
+asking what physical sensations so very
+
+892
+00:17:47,230 --> 00:17:47,240
+asking what physical sensations so very
+ 
+
+893
+00:17:47,240 --> 00:17:50,029
+asking what physical sensations so very
+specifically and recurring bodily
+
+894
+00:17:50,029 --> 00:17:50,039
+specifically and recurring bodily
+ 
+
+895
+00:17:50,039 --> 00:17:52,150
+specifically and recurring bodily
+experiences might be offering you
+
+896
+00:17:52,150 --> 00:17:52,160
+experiences might be offering you
+ 
+
+897
+00:17:52,160 --> 00:17:53,909
+experiences might be offering you
+insights into your current goals,
+
+898
+00:17:53,909 --> 00:17:53,919
+insights into your current goals,
+ 
+
+899
+00:17:53,919 --> 00:17:56,150
+insights into your current goals,
+challenges or unagnowledged desires.
+
+900
+00:17:56,150 --> 00:17:56,160
+challenges or unagnowledged desires.
+ 
+
+901
+00:17:56,160 --> 00:17:58,549
+challenges or unagnowledged desires.
+That is an interesting question. I had
+
+902
+00:17:58,549 --> 00:17:58,559
+That is an interesting question. I had
+ 
+
+903
+00:17:58,559 --> 00:18:02,150
+That is an interesting question. I had
+never thought to try to tie specific
+
+904
+00:18:02,150 --> 00:18:02,160
+never thought to try to tie specific
+ 
+
+905
+00:18:02,160 --> 00:18:05,270
+never thought to try to tie specific
+physical sensations directly to insights
+
+906
+00:18:05,270 --> 00:18:05,280
+physical sensations directly to insights
+ 
+
+907
+00:18:05,280 --> 00:18:08,549
+physical sensations directly to insights
+and takeaways for uh my goals and
+
+908
+00:18:08,549 --> 00:18:08,559
+and takeaways for uh my goals and
+ 
+
+909
+00:18:08,559 --> 00:18:10,870
+and takeaways for uh my goals and
+challenges and unagnowledged desires. So
+
+910
+00:18:10,870 --> 00:18:10,880
+challenges and unagnowledged desires. So
+ 
+
+911
+00:18:10,880 --> 00:18:12,789
+challenges and unagnowledged desires. So
+I think I'm just going to copy that
+
+912
+00:18:12,789 --> 00:18:12,799
+I think I'm just going to copy that
+ 
+
+913
+00:18:12,799 --> 00:18:17,110
+I think I'm just going to copy that
+question and now ask it. Okay. Wow. So I
+
+914
+00:18:17,110 --> 00:18:17,120
+question and now ask it. Okay. Wow. So I
+ 
+
+915
+00:18:17,120 --> 00:18:19,470
+question and now ask it. Okay. Wow. So I
+think this is the most interesting and
+
+916
+00:18:19,470 --> 00:18:19,480
+think this is the most interesting and
+ 
+
+917
+00:18:19,480 --> 00:18:22,549
+think this is the most interesting and
+relevant thing that we've covered so
+
+918
+00:18:22,549 --> 00:18:22,559
+relevant thing that we've covered so
+ 
+
+919
+00:18:22,559 --> 00:18:24,630
+relevant thing that we've covered so
+far. Uh and it kind of makes sense.
+
+920
+00:18:24,630 --> 00:18:24,640
+far. Uh and it kind of makes sense.
+ 
+
+921
+00:18:24,640 --> 00:18:26,870
+far. Uh and it kind of makes sense.
+We've kind of explored so many aspects
+
+922
+00:18:26,870 --> 00:18:26,880
+We've kind of explored so many aspects
+ 
+
+923
+00:18:26,880 --> 00:18:30,230
+We've kind of explored so many aspects
+of myself built on things we've talked
+
+924
+00:18:30,230 --> 00:18:30,240
+of myself built on things we've talked
+ 
+
+925
+00:18:30,240 --> 00:18:32,950
+of myself built on things we've talked
+about before. I asked it which question
+
+926
+00:18:32,950 --> 00:18:32,960
+about before. I asked it which question
+ 
+
+927
+00:18:32,960 --> 00:18:35,270
+about before. I asked it which question
+I should ask and then the AI suggested a
+
+928
+00:18:35,270 --> 00:18:35,280
+I should ask and then the AI suggested a
+ 
+
+929
+00:18:35,280 --> 00:18:37,190
+I should ask and then the AI suggested a
+question and then I asked that question.
+
+930
+00:18:37,190 --> 00:18:37,200
+question and then I asked that question.
+ 
+
+931
+00:18:37,200 --> 00:18:39,029
+question and then I asked that question.
+So it kind of makes sense that we've
+
+932
+00:18:39,029 --> 00:18:39,039
+So it kind of makes sense that we've
+ 
+
+933
+00:18:39,039 --> 00:18:41,669
+So it kind of makes sense that we've
+arrived essentially at the frontier of
+
+934
+00:18:41,669 --> 00:18:41,679
+arrived essentially at the frontier of
+ 
+
+935
+00:18:41,679 --> 00:18:43,909
+arrived essentially at the frontier of
+my own personal development and my
+
+936
+00:18:43,909 --> 00:18:43,919
+my own personal development and my
+ 
+
+937
+00:18:43,919 --> 00:18:46,230
+my own personal development and my
+growth as a person. So it's really the
+
+938
+00:18:46,230 --> 00:18:46,240
+growth as a person. So it's really the
+ 
+
+939
+00:18:46,240 --> 00:18:48,470
+growth as a person. So it's really the
+specificity of this. It's it's almost
+
+940
+00:18:48,470 --> 00:18:48,480
+specificity of this. It's it's almost
+ 
+
+941
+00:18:48,480 --> 00:18:51,990
+specificity of this. It's it's almost
+like a series of practices or a di again
+
+942
+00:18:51,990 --> 00:18:52,000
+like a series of practices or a di again
+ 
+
+943
+00:18:52,000 --> 00:18:54,549
+like a series of practices or a di again
+a set of diagnostic criteria that I
+
+944
+00:18:54,549 --> 00:18:54,559
+a set of diagnostic criteria that I
+ 
+
+945
+00:18:54,559 --> 00:18:57,190
+a set of diagnostic criteria that I
+could look at uh such as tension or
+
+946
+00:18:57,190 --> 00:18:57,200
+could look at uh such as tension or
+ 
+
+947
+00:18:57,200 --> 00:18:59,669
+could look at uh such as tension or
+tightness in specific areas and it gives
+
+948
+00:18:59,669 --> 00:18:59,679
+tightness in specific areas and it gives
+ 
+
+949
+00:18:59,679 --> 00:19:02,150
+tightness in specific areas and it gives
+some examples of which emotions those
+
+950
+00:19:02,150 --> 00:19:02,160
+some examples of which emotions those
+ 
+
+951
+00:19:02,160 --> 00:19:04,789
+some examples of which emotions those
+might correspond to changes in energy
+
+952
+00:19:04,789 --> 00:19:04,799
+might correspond to changes in energy
+ 
+
+953
+00:19:04,799 --> 00:19:07,190
+might correspond to changes in energy
+levels, digestive issues which I have
+
+954
+00:19:07,190 --> 00:19:07,200
+levels, digestive issues which I have
+ 
+
+955
+00:19:07,200 --> 00:19:09,350
+levels, digestive issues which I have
+been having lately. I had not thought
+
+956
+00:19:09,350 --> 00:19:09,360
+been having lately. I had not thought
+ 
+
+957
+00:19:09,360 --> 00:19:12,710
+been having lately. I had not thought
+that those could be related to uh things
+
+958
+00:19:12,710 --> 00:19:12,720
+that those could be related to uh things
+ 
+
+959
+00:19:12,720 --> 00:19:15,029
+that those could be related to uh things
+like my psychology and my emotions and
+
+960
+00:19:15,029 --> 00:19:15,039
+like my psychology and my emotions and
+ 
+
+961
+00:19:15,039 --> 00:19:17,190
+like my psychology and my emotions and
+even give some examples. Heart related
+
+962
+00:19:17,190 --> 00:19:17,200
+even give some examples. Heart related
+ 
+
+963
+00:19:17,200 --> 00:19:19,510
+even give some examples. Heart related
+sensations, racing heart, heavy chest,
+
+964
+00:19:19,510 --> 00:19:19,520
+sensations, racing heart, heavy chest,
+ 
+
+965
+00:19:19,520 --> 00:19:22,230
+sensations, racing heart, heavy chest,
+feeling of expansion or warmth, changes
+
+966
+00:19:22,230 --> 00:19:22,240
+feeling of expansion or warmth, changes
+ 
+
+967
+00:19:22,240 --> 00:19:24,150
+feeling of expansion or warmth, changes
+in breathing patterns, temperature
+
+968
+00:19:24,150 --> 00:19:24,160
+in breathing patterns, temperature
+ 
+
+969
+00:19:24,160 --> 00:19:26,549
+in breathing patterns, temperature
+changes, uh recurring aches or pains
+
+970
+00:19:26,549 --> 00:19:26,559
+changes, uh recurring aches or pains
+ 
+
+971
+00:19:26,559 --> 00:19:28,950
+changes, uh recurring aches or pains
+which I have been having a few. And it
+
+972
+00:19:28,950 --> 00:19:28,960
+which I have been having a few. And it
+ 
+
+973
+00:19:28,960 --> 00:19:31,270
+which I have been having a few. And it
+even goes beyond that. you know, if I am
+
+974
+00:19:31,270 --> 00:19:31,280
+even goes beyond that. you know, if I am
+ 
+
+975
+00:19:31,280 --> 00:19:33,430
+even goes beyond that. you know, if I am
+wondering how do I actually explore
+
+976
+00:19:33,430 --> 00:19:33,440
+wondering how do I actually explore
+ 
+
+977
+00:19:33,440 --> 00:19:35,590
+wondering how do I actually explore
+these things or get in touch with them,
+
+978
+00:19:35,590 --> 00:19:35,600
+these things or get in touch with them,
+ 
+
+979
+00:19:35,600 --> 00:19:38,549
+these things or get in touch with them,
+it suggests a apparently like an
+
+980
+00:19:38,549 --> 00:19:38,559
+it suggests a apparently like an
+ 
+
+981
+00:19:38,559 --> 00:19:40,549
+it suggests a apparently like an
+existing practice called active body
+
+982
+00:19:40,549 --> 00:19:40,559
+existing practice called active body
+ 
+
+983
+00:19:40,559 --> 00:19:42,630
+existing practice called active body
+awareness, which I hadn't really heard
+
+984
+00:19:42,630 --> 00:19:42,640
+awareness, which I hadn't really heard
+ 
+
+985
+00:19:42,640 --> 00:19:45,430
+awareness, which I hadn't really heard
+of before that specifically. And it
+
+986
+00:19:45,430 --> 00:19:45,440
+of before that specifically. And it
+ 
+
+987
+00:19:45,440 --> 00:19:47,430
+of before that specifically. And it
+suggests throughout your day, pause and
+
+988
+00:19:47,430 --> 00:19:47,440
+suggests throughout your day, pause and
+ 
+
+989
+00:19:47,440 --> 00:19:49,350
+suggests throughout your day, pause and
+notice what physical sensations you're
+
+990
+00:19:49,350 --> 00:19:49,360
+notice what physical sensations you're
+ 
+
+991
+00:19:49,360 --> 00:19:52,310
+notice what physical sensations you're
+experiencing without judgment. And it
+
+992
+00:19:52,310 --> 00:19:52,320
+experiencing without judgment. And it
+ 
+
+993
+00:19:52,320 --> 00:19:54,870
+experiencing without judgment. And it
+asks these questions. So, this is an
+
+994
+00:19:54,870 --> 00:19:54,880
+asks these questions. So, this is an
+ 
+
+995
+00:19:54,880 --> 00:19:56,870
+asks these questions. So, this is an
+incredibly I mean this list of questions
+
+996
+00:19:56,870 --> 00:19:56,880
+incredibly I mean this list of questions
+ 
+
+997
+00:19:56,880 --> 00:19:58,630
+incredibly I mean this list of questions
+I could I could actually sit down and in
+
+998
+00:19:58,630 --> 00:19:58,640
+I could I could actually sit down and in
+ 
+
+999
+00:19:58,640 --> 00:20:02,470
+I could I could actually sit down and in
+five minutes ask one or two of them and
+
+1000
+00:20:02,470 --> 00:20:02,480
+five minutes ask one or two of them and
+ 
+
+1001
+00:20:02,480 --> 00:20:07,110
+five minutes ask one or two of them and
+um actively bring this thing called
+
+1002
+00:20:07,110 --> 00:20:07,120
+um actively bring this thing called
+ 
+
+1003
+00:20:07,120 --> 00:20:08,950
+um actively bring this thing called
+active body awareness which I hadn't
+
+1004
+00:20:08,950 --> 00:20:08,960
+active body awareness which I hadn't
+ 
+
+1005
+00:20:08,960 --> 00:20:12,630
+active body awareness which I hadn't
+known about into my routine and into my
+
+1006
+00:20:12,630 --> 00:20:12,640
+known about into my routine and into my
+ 
+
+1007
+00:20:12,640 --> 00:20:16,630
+known about into my routine and into my
+day. Uh, I could even fire up AI, uh, or
+
+1008
+00:20:16,630 --> 00:20:16,640
+day. Uh, I could even fire up AI, uh, or
+ 
+
+1009
+00:20:16,640 --> 00:20:19,190
+day. Uh, I could even fire up AI, uh, or
+talk it over with a human being and
+
+1010
+00:20:19,190 --> 00:20:19,200
+talk it over with a human being and
+ 
+
+1011
+00:20:19,200 --> 00:20:21,270
+talk it over with a human being and
+actually explore, say, one of these
+
+1012
+00:20:21,270 --> 00:20:21,280
+actually explore, say, one of these
+ 
+
+1013
+00:20:21,280 --> 00:20:23,270
+actually explore, say, one of these
+questions in more depth and do kind of
+
+1014
+00:20:23,270 --> 00:20:23,280
+questions in more depth and do kind of
+ 
+
+1015
+00:20:23,280 --> 00:20:25,590
+questions in more depth and do kind of
+like a conversational journaling with
+
+1016
+00:20:25,590 --> 00:20:25,600
+like a conversational journaling with
+ 
+
+1017
+00:20:25,600 --> 00:20:28,789
+like a conversational journaling with
+something like Notebook LM and thus make
+
+1018
+00:20:28,789 --> 00:20:28,799
+something like Notebook LM and thus make
+ 
+
+1019
+00:20:28,799 --> 00:20:30,950
+something like Notebook LM and thus make
+it not just an intellectual exercise,
+
+1020
+00:20:30,950 --> 00:20:30,960
+it not just an intellectual exercise,
+ 
+
+1021
+00:20:30,960 --> 00:20:33,270
+it not just an intellectual exercise,
+which I know based on our conversation
+
+1022
+00:20:33,270 --> 00:20:33,280
+which I know based on our conversation
+ 
+
+1023
+00:20:33,280 --> 00:20:35,669
+which I know based on our conversation
+is not very effective for me, uh, but
+
+1024
+00:20:35,669 --> 00:20:35,679
+is not very effective for me, uh, but
+ 
+
+1025
+00:20:35,679 --> 00:20:37,830
+is not very effective for me, uh, but
+actually make it a two-way conversation
+
+1026
+00:20:37,830 --> 00:20:37,840
+actually make it a two-way conversation
+ 
+
+1027
+00:20:37,840 --> 00:20:41,590
+actually make it a two-way conversation
+so that it integrates at a deeper level.
+
+1028
+00:20:41,590 --> 00:20:41,600
+so that it integrates at a deeper level.
+ 
+
+1029
+00:20:41,600 --> 00:20:45,190
+so that it integrates at a deeper level.
+And that's it. So, we've spent quite a
+
+1030
+00:20:45,190 --> 00:20:45,200
+And that's it. So, we've spent quite a
+ 
+
+1031
+00:20:45,200 --> 00:20:48,070
+And that's it. So, we've spent quite a
+bit of time here exploring my inner
+
+1032
+00:20:48,070 --> 00:20:48,080
+bit of time here exploring my inner
+ 
+
+1033
+00:20:48,080 --> 00:20:50,630
+bit of time here exploring my inner
+world. I thank you for your patience and
+
+1034
+00:20:50,630 --> 00:20:50,640
+world. I thank you for your patience and
+ 
+
+1035
+00:20:50,640 --> 00:20:51,990
+world. I thank you for your patience and
+being willing to go on that little
+
+1036
+00:20:51,990 --> 00:20:52,000
+being willing to go on that little
+ 
+
+1037
+00:20:52,000 --> 00:20:53,990
+being willing to go on that little
+journey with me. And revisiting my
+
+1038
+00:20:53,990 --> 00:20:54,000
+journey with me. And revisiting my
+ 
+
+1039
+00:20:54,000 --> 00:20:56,950
+journey with me. And revisiting my
+original question, which was, can AI be
+
+1040
+00:20:56,950 --> 00:20:56,960
+original question, which was, can AI be
+ 
+
+1041
+00:20:56,960 --> 00:20:59,750
+original question, which was, can AI be
+an effective coach for me, I noticed a
+
+1042
+00:20:59,750 --> 00:20:59,760
+an effective coach for me, I noticed a
+ 
+
+1043
+00:20:59,760 --> 00:21:01,909
+an effective coach for me, I noticed a
+couple things. I would say from the
+
+1044
+00:21:01,909 --> 00:21:01,919
+couple things. I would say from the
+ 
+
+1045
+00:21:01,919 --> 00:21:05,190
+couple things. I would say from the
+level of information and knowledge that
+
+1046
+00:21:05,190 --> 00:21:05,200
+level of information and knowledge that
+ 
+
+1047
+00:21:05,200 --> 00:21:07,750
+level of information and knowledge that
+it actually performed very very well. In
+
+1048
+00:21:07,750 --> 00:21:07,760
+it actually performed very very well. In
+ 
+
+1049
+00:21:07,760 --> 00:21:09,990
+it actually performed very very well. In
+just a matter of a couple hours of
+
+1050
+00:21:09,990 --> 00:21:10,000
+just a matter of a couple hours of
+ 
+
+1051
+00:21:10,000 --> 00:21:12,630
+just a matter of a couple hours of
+preparation plus 15 minutes of loading
+
+1052
+00:21:12,630 --> 00:21:12,640
+preparation plus 15 minutes of loading
+ 
+
+1053
+00:21:12,640 --> 00:21:15,350
+preparation plus 15 minutes of loading
+up those sources into notebook LM, I've
+
+1054
+00:21:15,350 --> 00:21:15,360
+up those sources into notebook LM, I've
+ 
+
+1055
+00:21:15,360 --> 00:21:17,990
+up those sources into notebook LM, I've
+done the equivalent of probably 10 or 15
+
+1056
+00:21:17,990 --> 00:21:18,000
+done the equivalent of probably 10 or 15
+ 
+
+1057
+00:21:18,000 --> 00:21:20,630
+done the equivalent of probably 10 or 15
+years of context building that would be
+
+1058
+00:21:20,630 --> 00:21:20,640
+years of context building that would be
+ 
+
+1059
+00:21:20,640 --> 00:21:22,710
+years of context building that would be
+required with a human. The fact that it
+
+1060
+00:21:22,710 --> 00:21:22,720
+required with a human. The fact that it
+ 
+
+1061
+00:21:22,720 --> 00:21:25,270
+required with a human. The fact that it
+can hold in its mind, in its memory, so
+
+1062
+00:21:25,270 --> 00:21:25,280
+can hold in its mind, in its memory, so
+ 
+
+1063
+00:21:25,280 --> 00:21:28,149
+can hold in its mind, in its memory, so
+to speak, such a vast amount of just
+
+1064
+00:21:28,149 --> 00:21:28,159
+to speak, such a vast amount of just
+ 
+
+1065
+00:21:28,159 --> 00:21:31,029
+to speak, such a vast amount of just
+details, such amount of specifics, even
+
+1066
+00:21:31,029 --> 00:21:31,039
+details, such amount of specifics, even
+ 
+
+1067
+00:21:31,039 --> 00:21:33,070
+details, such amount of specifics, even
+more than I can hold in my head about
+
+1068
+00:21:33,070 --> 00:21:33,080
+more than I can hold in my head about
+ 
+
+1069
+00:21:33,080 --> 00:21:35,510
+more than I can hold in my head about
+myself, means that it could pretty
+
+1070
+00:21:35,510 --> 00:21:35,520
+myself, means that it could pretty
+ 
+
+1071
+00:21:35,520 --> 00:21:38,870
+myself, means that it could pretty
+effortlessly go from big picture 10,000
+
+1072
+00:21:38,870 --> 00:21:38,880
+effortlessly go from big picture 10,000
+ 
+
+1073
+00:21:38,880 --> 00:21:42,070
+effortlessly go from big picture 10,000
+ft view perspectives immediately and
+
+1074
+00:21:42,070 --> 00:21:42,080
+ft view perspectives immediately and
+ 
+
+1075
+00:21:42,080 --> 00:21:44,149
+ft view perspectives immediately and
+instantaneously down to the most
+
+1076
+00:21:44,149 --> 00:21:44,159
+instantaneously down to the most
+ 
+
+1077
+00:21:44,159 --> 00:21:46,630
+instantaneously down to the most
+specific thing I mentioned in one
+
+1078
+00:21:46,630 --> 00:21:46,640
+specific thing I mentioned in one
+ 
+
+1079
+00:21:46,640 --> 00:21:49,350
+specific thing I mentioned in one
+sentence of one article or blog post
+
+1080
+00:21:49,350 --> 00:21:49,360
+sentence of one article or blog post
+ 
+
+1081
+00:21:49,360 --> 00:21:50,710
+sentence of one article or blog post
+that I've written. That is something
+
+1082
+00:21:50,710 --> 00:21:50,720
+that I've written. That is something
+ 
+
+1083
+00:21:50,720 --> 00:21:53,270
+that I've written. That is something
+that a human being, a human coach cannot
+
+1084
+00:21:53,270 --> 00:21:53,280
+that a human being, a human coach cannot
+ 
+
+1085
+00:21:53,280 --> 00:21:56,149
+that a human being, a human coach cannot
+do. What it's not doing so well and
+
+1086
+00:21:56,149 --> 00:21:56,159
+do. What it's not doing so well and
+ 
+
+1087
+00:21:56,159 --> 00:21:57,750
+do. What it's not doing so well and
+really what are some of the most
+
+1088
+00:21:57,750 --> 00:21:57,760
+really what are some of the most
+ 
+
+1089
+00:21:57,760 --> 00:22:00,390
+really what are some of the most
+valuable moments with my human coach
+
+1090
+00:22:00,390 --> 00:22:00,400
+valuable moments with my human coach
+ 
+
+1091
+00:22:00,400 --> 00:22:03,270
+valuable moments with my human coach
+have to do with the emotions. And often
+
+1092
+00:22:03,270 --> 00:22:03,280
+have to do with the emotions. And often
+ 
+
+1093
+00:22:03,280 --> 00:22:05,909
+have to do with the emotions. And often
+that is something as simple as that
+
+1094
+00:22:05,909 --> 00:22:05,919
+that is something as simple as that
+ 
+
+1095
+00:22:05,919 --> 00:22:08,470
+that is something as simple as that
+human, that person seeing a micro
+
+1096
+00:22:08,470 --> 00:22:08,480
+human, that person seeing a micro
+ 
+
+1097
+00:22:08,480 --> 00:22:11,070
+human, that person seeing a micro
+expression on my face, seeing my body
+
+1098
+00:22:11,070 --> 00:22:11,080
+expression on my face, seeing my body
+ 
+
+1099
+00:22:11,080 --> 00:22:13,430
+expression on my face, seeing my body
+language, whether we're working together
+
+1100
+00:22:13,430 --> 00:22:13,440
+language, whether we're working together
+ 
+
+1101
+00:22:13,440 --> 00:22:16,310
+language, whether we're working together
+on Zoom or in person, noticing when I
+
+1102
+00:22:16,310 --> 00:22:16,320
+on Zoom or in person, noticing when I
+ 
+
+1103
+00:22:16,320 --> 00:22:19,590
+on Zoom or in person, noticing when I
+make a pause or when I kind of uh have a
+
+1104
+00:22:19,590 --> 00:22:19,600
+make a pause or when I kind of uh have a
+ 
+
+1105
+00:22:19,600 --> 00:22:21,430
+make a pause or when I kind of uh have a
+certain reaction to something that she
+
+1106
+00:22:21,430 --> 00:22:21,440
+certain reaction to something that she
+ 
+
+1107
+00:22:21,440 --> 00:22:25,990
+certain reaction to something that she
+said. a lot of that kind of uh subtle or
+
+1108
+00:22:25,990 --> 00:22:26,000
+said. a lot of that kind of uh subtle or
+ 
+
+1109
+00:22:26,000 --> 00:22:29,270
+said. a lot of that kind of uh subtle or
+um body language or not explicit
+
+1110
+00:22:29,270 --> 00:22:29,280
+um body language or not explicit
+ 
+
+1111
+00:22:29,280 --> 00:22:31,390
+um body language or not explicit
+information is some of the most valuable
+
+1112
+00:22:31,390 --> 00:22:31,400
+information is some of the most valuable
+ 
+
+1113
+00:22:31,400 --> 00:22:33,750
+information is some of the most valuable
+information. So I think the way that I
+
+1114
+00:22:33,750 --> 00:22:33,760
+information. So I think the way that I
+ 
+
+1115
+00:22:33,760 --> 00:22:36,390
+information. So I think the way that I
+would use AI in the future is not as a
+
+1116
+00:22:36,390 --> 00:22:36,400
+would use AI in the future is not as a
+ 
+
+1117
+00:22:36,400 --> 00:22:39,029
+would use AI in the future is not as a
+replacement for a human coach. It's not
+
+1118
+00:22:39,029 --> 00:22:39,039
+replacement for a human coach. It's not
+ 
+
+1119
+00:22:39,039 --> 00:22:41,669
+replacement for a human coach. It's not
+at the point where it can seamlessly
+
+1120
+00:22:41,669 --> 00:22:41,679
+at the point where it can seamlessly
+ 
+
+1121
+00:22:41,679 --> 00:22:44,789
+at the point where it can seamlessly
+take the place of at least a highly
+
+1122
+00:22:44,789 --> 00:22:44,799
+take the place of at least a highly
+ 
+
+1123
+00:22:44,799 --> 00:22:47,350
+take the place of at least a highly
+skilled and experienced coach, but I
+
+1124
+00:22:47,350 --> 00:22:47,360
+skilled and experienced coach, but I
+ 
+
+1125
+00:22:47,360 --> 00:22:49,110
+skilled and experienced coach, but I
+would say it's an excellent compliment.
+
+1126
+00:22:49,110 --> 00:22:49,120
+would say it's an excellent compliment.
+ 
+
+1127
+00:22:49,120 --> 00:22:51,750
+would say it's an excellent compliment.
+In fact, one of the most useful and
+
+1128
+00:22:51,750 --> 00:22:51,760
+In fact, one of the most useful and
+ 
+
+1129
+00:22:51,760 --> 00:22:53,870
+In fact, one of the most useful and
+commonly cited sources in this
+
+1130
+00:22:53,870 --> 00:22:53,880
+commonly cited sources in this
+ 
+
+1131
+00:22:53,880 --> 00:22:56,630
+commonly cited sources in this
+conversation was that document with
+
+1132
+00:22:56,630 --> 00:22:56,640
+conversation was that document with
+ 
+
+1133
+00:22:56,640 --> 00:22:59,110
+conversation was that document with
+several years of notes from my coaching
+
+1134
+00:22:59,110 --> 00:22:59,120
+several years of notes from my coaching
+ 
+
+1135
+00:22:59,120 --> 00:23:02,070
+several years of notes from my coaching
+sessions with my human coach. So, I
+
+1136
+00:23:02,070 --> 00:23:02,080
+sessions with my human coach. So, I
+ 
+
+1137
+00:23:02,080 --> 00:23:03,909
+sessions with my human coach. So, I
+would say that these two forms of
+
+1138
+00:23:03,909 --> 00:23:03,919
+would say that these two forms of
+ 
+
+1139
+00:23:03,919 --> 00:23:05,830
+would say that these two forms of
+coaching, these two relationships are
+
+1140
+00:23:05,830 --> 00:23:05,840
+coaching, these two relationships are
+ 
+
+1141
+00:23:05,840 --> 00:23:07,990
+coaching, these two relationships are
+highly complimentary. They strengthen
+
+1142
+00:23:07,990 --> 00:23:08,000
+highly complimentary. They strengthen
+ 
+
+1143
+00:23:08,000 --> 00:23:09,750
+highly complimentary. They strengthen
+each other. They make each other better.
+
+1144
+00:23:09,750 --> 00:23:09,760
+each other. They make each other better.
+ 
+
+1145
+00:23:09,760 --> 00:23:11,350
+each other. They make each other better.
+So, it's not about choosing one or the
+
+1146
+00:23:11,350 --> 00:23:11,360
+So, it's not about choosing one or the
+ 
+
+1147
+00:23:11,360 --> 00:23:13,990
+So, it's not about choosing one or the
+other. It's about using what AI and
+
+1148
+00:23:13,990 --> 00:23:14,000
+other. It's about using what AI and
+ 
+
+1149
+00:23:14,000 --> 00:23:16,789
+other. It's about using what AI and
+technology is really good at alongside
+
+1150
+00:23:16,789 --> 00:23:16,799
+technology is really good at alongside
+ 
+
+1151
+00:23:16,799 --> 00:23:18,710
+technology is really good at alongside
+and in conjunction with what human
+
+1152
+00:23:18,710 --> 00:23:18,720
+and in conjunction with what human
+ 
+
+1153
+00:23:18,720 --> 00:23:20,789
+and in conjunction with what human
+beings are good at, which is that
+
+1154
+00:23:20,789 --> 00:23:20,799
+beings are good at, which is that
+ 
+
+1155
+00:23:20,799 --> 00:23:23,510
+beings are good at, which is that
+personal, relational, and intuitive
+
+1156
+00:23:23,510 --> 00:23:23,520
+personal, relational, and intuitive
+ 
+
+1157
+00:23:23,520 --> 00:23:25,909
+personal, relational, and intuitive
+emotional aspect. I invite you to try
+
+1158
+00:23:25,909 --> 00:23:25,919
+emotional aspect. I invite you to try
+ 
+
+1159
+00:23:25,919 --> 00:23:27,990
+emotional aspect. I invite you to try
+this for yourself. You can use any of
+
+1160
+00:23:27,990 --> 00:23:28,000
+this for yourself. You can use any of
+ 
+
+1161
+00:23:28,000 --> 00:23:30,149
+this for yourself. You can use any of
+the AI tools that are now available,
+
+1162
+00:23:30,149 --> 00:23:30,159
+the AI tools that are now available,
+ 
+
+1163
+00:23:30,159 --> 00:23:32,390
+the AI tools that are now available,
+including free ones and paid ones. Load
+
+1164
+00:23:32,390 --> 00:23:32,400
+including free ones and paid ones. Load
+ 
+
+1165
+00:23:32,400 --> 00:23:34,870
+including free ones and paid ones. Load
+up any writing or journal entries or any
+
+1166
+00:23:34,870 --> 00:23:34,880
+up any writing or journal entries or any
+ 
+
+1167
+00:23:34,880 --> 00:23:37,110
+up any writing or journal entries or any
+other material that you have to give it
+
+1168
+00:23:37,110 --> 00:23:37,120
+other material that you have to give it
+ 
+
+1169
+00:23:37,120 --> 00:23:39,270
+other material that you have to give it
+some context. ask it some of the
+
+1170
+00:23:39,270 --> 00:23:39,280
+some context. ask it some of the
+ 
+
+1171
+00:23:39,280 --> 00:23:41,190
+some context. ask it some of the
+coaching style questions that you saw
+
+1172
+00:23:41,190 --> 00:23:41,200
+coaching style questions that you saw
+ 
+
+1173
+00:23:41,200 --> 00:23:42,870
+coaching style questions that you saw
+here. And I would really love it if you
+
+1174
+00:23:42,870 --> 00:23:42,880
+here. And I would really love it if you
+ 
+
+1175
+00:23:42,880 --> 00:23:45,029
+here. And I would really love it if you
+shared in the comments below what your
+
+1176
+00:23:45,029 --> 00:23:45,039
+shared in the comments below what your
+ 
+
+1177
+00:23:45,039 --> 00:23:46,549
+shared in the comments below what your
+experience was and what it came up with.
+
+1178
+00:23:46,549 --> 00:23:46,559
+experience was and what it came up with.
+ 
+
+1179
+00:23:46,559 --> 00:23:47,750
+experience was and what it came up with.
+If you'd like to receive more
+
+1180
+00:23:47,750 --> 00:23:47,760
+If you'd like to receive more
+ 
+
+1181
+00:23:47,760 --> 00:23:51,029
+If you'd like to receive more
+educational content on AI technology
+
+1182
+00:23:51,029 --> 00:23:51,039
+educational content on AI technology
+ 
+
+1183
+00:23:51,039 --> 00:23:53,430
+educational content on AI technology
+generally and many other topics from me,
+
+1184
+00:23:53,430 --> 00:23:53,440
+generally and many other topics from me,
+ 
+
+1185
+00:23:53,440 --> 00:23:55,669
+generally and many other topics from me,
+I really encourage you to sign up to our
+
+1186
+00:23:55,669 --> 00:23:55,679
+I really encourage you to sign up to our
+ 
+
+1187
+00:23:55,679 --> 00:23:57,590
+I really encourage you to sign up to our
+newsletter which goes out every Tuesday
+
+1188
+00:23:57,590 --> 00:23:57,600
+newsletter which goes out every Tuesday
+ 
+
+1189
+00:23:57,600 --> 00:23:59,909
+newsletter which goes out every Tuesday
+morning at this QR code or in the
+
+1190
+00:23:59,909 --> 00:23:59,919
+morning at this QR code or in the
+ 
+
+1191
+00:23:59,919 --> 00:24:01,750
+morning at this QR code or in the
+description below.
+
+1192
+00:24:01,750 --> 00:24:01,760
+description below.
+ 
+
+1193
+00:24:01,760 --> 00:24:05,710
+description below.
+I
+
+1194
+00:24:05,710 --> 00:24:05,720
+
+ 
+
+1195
+00:24:05,720 --> 00:24:09,630
+
+decided in this video
+
+1196
+00:24:09,630 --> 00:24:09,640
+decided in this video
+ 
+
+1197
+00:24:09,640 --> 00:24:15,549
+decided in this video
+I'm Okay, so this last
+
+1198
+00:24:15,549 --> 00:24:15,559
+
+ 
+
+1199
+00:24:15,559 --> 00:24:20,310
+
+bast Okay, so this last b last last
+
+1200
+00:24:20,310 --> 00:24:20,320
+bast Okay, so this last b last last
+ 
+
+1201
+00:24:20,320 --> 00:24:23,520
+bast Okay, so this last b last last
+batch last batch.
+
