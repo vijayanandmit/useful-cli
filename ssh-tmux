@@ -1,0 +1,1 @@
+Prompt: install tmux, and any new ssh should create new one, but if there is exisiting tmux session, ssh should connect to existing one
